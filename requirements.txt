@@ -1,0 +1,9 @@
+google-api-python-client
+pandas
+scipy
+oauth2client
+google-auth-httplib2 
+google-auth-oauthlib
+pingouin
+rpy2
+tzlocal
