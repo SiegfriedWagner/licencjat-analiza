@@ -1,463 +1,30 @@
 Task name,Start stamp,End stamp,Duration,Number of errors,Completed,SubTask,Kod badanego,Testowany interfejs
-FeedForward,12:22:30.661,12:22:41.43,10381.678600000003,0,True,,sub-01,Przyciski wzrokowe
-Rewind,12:22:48.552,12:23:01.244,12691.997600000002,1,True,,sub-01,Przyciski wzrokowe
-IncreaseVolume,12:23:08.844,12:23:38.504,29659.2683,3,True,,sub-01,Przyciski wzrokowe
-PauseAndResume,12:23:45.711,12:23:51.756,6044.7209,0,True,,sub-01,Przyciski wzrokowe
-SetVideo,12:23:55.79,12:23:58.815,3736.6866999999907,0,True,,sub-01,Przyciski wzrokowe
-PauseAndResume,12:24:01.864,12:24:31.388,29523.934300000008,0,True,,sub-01,Przyciski wzrokowe
-ReduceVolume,12:24:41.4,12:24:50.337,10769.597100000014,0,True,,sub-01,Przyciski wzrokowe
-SetPanelAndVideo,12:24:57.637,12:25:20.757,23119.96710000001,1,True,,sub-01,Przyciski wzrokowe
-FeedForward,12:25:27.181,12:25:36.786,9604.815499999997,0,True,,sub-01,Przyciski wzrokowe
-IncreaseVolume,12:25:42.839,12:25:52.876,10036.521399999998,1,True,,sub-01,Przyciski wzrokowe
-PauseAndResume,12:25:57.179,12:26:19.372,22192.953799999992,4,True,,sub-01,Przyciski wzrokowe
-SetPanelAndVideo,12:26:26.113,12:27:05.18,38904.7738,5,True,,sub-01,Przyciski wzrokowe
-Rewind,12:27:11.11,12:27:19.284,8273.506200000002,3,True,,sub-01,Przyciski wzrokowe
-Pause,12:27:19.304,12:27:23.519,4214.665799999959,3,False,,sub-01,Przyciski wzrokowe
-FeedForward,12:22:30.661,12:22:41.43,10381.678600000003,0,True,,sub-01,Przyciski wzrokowe
-Rewind,12:22:48.552,12:23:01.244,12691.997600000002,1,True,,sub-01,Przyciski wzrokowe
-IncreaseVolume,12:23:08.844,12:23:38.504,29659.2683,3,True,,sub-01,Przyciski wzrokowe
-PauseAndResume,12:23:45.711,12:23:51.756,6044.7209,0,True,,sub-01,Przyciski wzrokowe
-SetVideo,12:23:55.79,12:23:58.815,3736.6866999999907,0,True,,sub-01,Przyciski wzrokowe
-PauseAndResume,12:24:01.864,12:24:31.388,29523.934300000008,0,True,,sub-01,Przyciski wzrokowe
-ReduceVolume,12:24:41.4,12:24:50.337,10769.597100000014,0,True,,sub-01,Przyciski wzrokowe
-SetPanelAndVideo,12:24:57.637,12:25:20.757,23119.96710000001,1,True,,sub-01,Przyciski wzrokowe
-FeedForward,12:25:27.181,12:25:36.786,9604.815499999997,0,True,,sub-01,Przyciski wzrokowe
-IncreaseVolume,12:25:42.839,12:25:52.876,10036.521399999998,1,True,,sub-01,Przyciski wzrokowe
-PauseAndResume,12:25:57.179,12:26:19.372,22192.953799999992,4,True,,sub-01,Przyciski wzrokowe
-SetPanelAndVideo,12:26:26.113,12:27:05.18,38904.7738,5,True,,sub-01,Przyciski wzrokowe
-Rewind,12:27:11.11,12:27:19.284,8273.506200000002,3,True,,sub-01,Przyciski wzrokowe
-Pause,12:27:19.304,12:27:23.519,4214.665799999959,3,False,,sub-01,Przyciski wzrokowe
-FeedForward,12:52:30.911,12:52:52.256,21344.5839,0,True,,sub-01,Obszary aktywowane spojrzeniem
-ReduceVolume,12:53:00.146,12:53:24.246,24099.9262,0,True,,sub-01,Obszary aktywowane spojrzeniem
-PauseAndResume,12:53:30.584,12:53:36.569,5984.584299999988,0,True,,sub-01,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,12:53:46.567,12:53:56.988,10420.821599999996,2,True,,sub-01,Obszary aktywowane spojrzeniem
-Rewind,12:54:02.896,12:54:12.620,9723.516199999998,0,True,,sub-01,Obszary aktywowane spojrzeniem
-PauseAndResume,12:54:19.80,12:54:29.181,10100.262300000002,0,True,,sub-01,Obszary aktywowane spojrzeniem
-IncreaseVolume,12:54:37.160,12:55:04.931,27770.99179999999,5,True,,sub-01,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,12:55:05.447,12:55:24.186,18738.5815,4,True,,sub-01,Obszary aktywowane spojrzeniem
-FeedForward,12:55:32.538,12:55:44.436,11897.506800000005,0,True,,sub-01,Obszary aktywowane spojrzeniem
-Rewind,12:55:48.186,12:55:55.242,7056.494800000015,0,True,,sub-01,Obszary aktywowane spojrzeniem
-ReduceVolume,12:56:00.528,12:56:10.327,9799.045000000013,0,True,,sub-01,Obszary aktywowane spojrzeniem
-PauseAndResume,12:56:14.572,12:56:27.535,12962.824299999978,0,True,,sub-01,Obszary aktywowane spojrzeniem
-SetVideo,12:56:32.291,12:56:37.975,5684.413900000042,0,True,,sub-01,Obszary aktywowane spojrzeniem
-Pause,12:56:39.655,12:56:41.798,2142.746600000013,1,False,,sub-01,Obszary aktywowane spojrzeniem
-FeedForward,13:20:51.107,13:21:42.150,51042.5678,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,13:21:45.463,13:22:59.80,73616.74740000001,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,13:23:04.690,13:23:56.423,51733.82309999998,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,13:23:56.423,13:24:04.511,8087.327900000004,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,13:24:22.163,13:24:28.742,6579.881100000028,2,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,13:24:35.445,13:24:40.619,5174.094000000012,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,13:24:44.419,13:26:28.319,103900.3421,2,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,13:26:31.522,13:26:35.380,3857.8048000000417,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,13:26:40.171,13:27:13.530,33359.82760000002,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,13:27:19.814,13:28:14.313,54499.6593,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,13:28:17.646,13:28:27.481,9834.30680000002,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,13:28:34.98,13:28:39.273,5174.7789999999795,1,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,13:28:44.396,13:30:27.259,102862.47809999996,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-Pause,13:30:28.897,13:30:31.64,2167.517899999977,1,False,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,18:53:55.15,18:54:04.862,9846.0353,0,True,,sub-02,Obszary aktywowane spojrzeniem
-Rewind,18:54:08.25,18:54:19.64,11039.7094,0,True,,sub-02,Obszary aktywowane spojrzeniem
-IncreaseVolume,18:54:23.410,18:54:30.981,7570.575799999999,0,True,,sub-02,Obszary aktywowane spojrzeniem
-PauseAndResume,18:54:36.265,18:54:41.495,5230.033199999998,0,True,,sub-02,Obszary aktywowane spojrzeniem
-SetVideo,18:54:44.794,18:54:48.918,4124.267500000002,0,True,,sub-02,Obszary aktywowane spojrzeniem
-PauseAndResume,18:54:52.438,18:54:57.672,5233.407800000015,0,True,,sub-02,Obszary aktywowane spojrzeniem
-ReduceVolume,18:55:00.687,18:55:09.973,9285.874500000004,0,True,,sub-02,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,18:55:20.895,18:55:31.365,10469.966799999997,0,True,,sub-02,Obszary aktywowane spojrzeniem
-FeedForward,18:55:39.954,18:55:59.566,19611.5631,0,True,,sub-02,Obszary aktywowane spojrzeniem
-ReduceVolume,18:56:03.413,18:56:13.546,10133.408000000025,0,True,,sub-02,Obszary aktywowane spojrzeniem
-PauseAndResume,18:56:15.968,18:56:20.419,4450.766800000012,0,True,,sub-02,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,18:56:24.906,18:56:29.799,4892.74709999998,1,True,,sub-02,Obszary aktywowane spojrzeniem
-FeedForward,18:56:35.379,18:57:14.427,39047.9527,12,True,,sub-02,Obszary aktywowane spojrzeniem
-Pause,18:57:15.753,18:57:18.327,2573.5329000000197,1,False,,sub-02,Obszary aktywowane spojrzeniem
-FeedForward,13:51:42.803,13:52:01.235,18432.0601,1,True,,sub-03,Przyciski wzrokowe
-ReduceVolume,13:52:06.841,13:52:18.343,11501.6158,0,True,,sub-03,Przyciski wzrokowe
-PauseAndResume,13:52:29.703,13:52:45.39,15336.840799999998,1,True,,sub-03,Przyciski wzrokowe
-SetVideo,13:52:51.331,13:52:55.775,4444.294699999999,0,True,,sub-03,Przyciski wzrokowe
-FeedForward,13:53:00.27,13:53:13.907,13880.208499999993,4,True,,sub-03,Przyciski wzrokowe
-Rewind,13:53:18.763,13:53:46.962,28199.25210000001,3,True,,sub-03,Przyciski wzrokowe
-PauseAndResume,13:53:52.176,13:54:02.234,10058.350000000006,2,True,,sub-03,Przyciski wzrokowe
-IncreaseVolume,13:54:05.954,13:54:12.907,6953.622499999998,1,True,,sub-03,Przyciski wzrokowe
-SetPanelAndVideo,13:54:16.514,13:54:22.345,5831.140400000004,0,True,,sub-03,Przyciski wzrokowe
-IncreaseVolume,13:54:27.395,13:54:35.769,8373.659500000009,0,False,,sub-03,Przyciski wzrokowe
-PauseAndResume,13:54:38.768,13:54:51.151,12382.602799999993,0,True,,sub-03,Przyciski wzrokowe
-SetPanelAndVideo,13:54:55.780,13:55:01.719,5939.414299999976,1,True,,sub-03,Przyciski wzrokowe
-FeedForward,13:55:05.696,13:55:27.187,21490.696,1,True,,sub-03,Przyciski wzrokowe
-Pause,13:55:29.427,13:55:33.20,3593.612300000008,1,False,,sub-03,Przyciski wzrokowe
-FeedForward,13:16:43.108,13:17:03.42,19934.0054,1,True,,sub-03,Obszary aktywowane spojrzeniem
-Rewind,13:17:08.340,13:17:27.997,19657.318799999994,2,True,,sub-03,Obszary aktywowane spojrzeniem
-IncreaseVolume,13:17:34.387,13:18:04.757,30370.5738,4,True,,sub-03,Obszary aktywowane spojrzeniem
-PauseAndResume,13:18:08.793,13:18:17.962,9168.804600000003,0,True,,sub-03,Obszary aktywowane spojrzeniem
-SetVideo,13:18:23.33,13:18:26.547,3513.9853000000007,0,True,,sub-03,Obszary aktywowane spojrzeniem
-PauseAndResume,13:18:34.172,13:18:39.58,4886.018800000005,0,True,,sub-03,Obszary aktywowane spojrzeniem
-ReduceVolume,13:18:44.108,13:18:52.63,7954.962700000018,0,True,,sub-03,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,13:18:57.197,13:19:04.479,7282.512000000017,0,True,,sub-03,Obszary aktywowane spojrzeniem
-FeedForward,13:19:10.296,13:19:17.519,7222.665299999992,1,True,,sub-03,Obszary aktywowane spojrzeniem
-IncreaseVolume,13:19:18.668,13:19:30.127,11458.727199999996,2,True,,sub-03,Obszary aktywowane spojrzeniem
-PauseAndResume,13:19:37.796,13:19:50.311,12515.6587,5,True,,sub-03,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,13:19:55.798,13:20:04.684,8885.376199999999,4,True,,sub-03,Obszary aktywowane spojrzeniem
-FeedForward,13:20:13.430,13:20:34.907,21476.76819999999,0,True,,sub-03,Obszary aktywowane spojrzeniem
-Pause,13:20:36.798,13:20:39.74,2275.975399999996,1,False,,sub-03,Obszary aktywowane spojrzeniem
-FeedForward,19:00:45.818,19:01:27.362,41544.1183,5,True,,sub-04,Przyciski wzrokowe
-IncreaseVolume,19:01:31.789,19:01:42.71,10282.436100000006,1,True,,sub-04,Przyciski wzrokowe
-PauseAndResume,19:01:44.612,19:01:56.75,11463.651200000008,0,True,,sub-04,Przyciski wzrokowe
-SetVideo,19:02:01.909,19:02:05.837,3927.6203000000096,0,True,,sub-04,Przyciski wzrokowe
-FeedForward,19:02:09.647,19:02:26.316,16669.3643,3,True,,sub-04,Przyciski wzrokowe
-PauseAndResume,19:02:31.182,19:02:36.277,5095.174499999994,0,True,,sub-04,Przyciski wzrokowe
-ReduceVolume,19:02:39.365,19:02:51.890,12524.722500000005,1,True,,sub-04,Przyciski wzrokowe
-SetPanelAndVideo,19:02:58.358,19:03:04.11,5652.715100000001,0,False,,sub-04,Przyciski wzrokowe
-FeedForward,19:03:10.285,19:03:22.687,12401.836499999976,0,True,,sub-04,Przyciski wzrokowe
-Rewind,19:03:27.661,19:03:33.893,6232.417199999996,1,True,,sub-04,Przyciski wzrokowe
-ReduceVolume,19:03:37.411,19:03:41.814,4403.363899999997,0,True,,sub-04,Przyciski wzrokowe
-PauseAndResume,19:03:45.51,19:03:57.749,12698.771500000004,0,True,,sub-04,Przyciski wzrokowe
-SetPanelAndVideo,19:04:03.3,19:04:07.95,4092.2592,1,True,,sub-04,Przyciski wzrokowe
-Pause,19:04:11.386,19:04:12.251,865.3902999999991,1,False,,sub-04,Przyciski wzrokowe
-FeedForward,18:05:40.963,18:05:57.32,16068.099300000002,1,True,,sub-04,Obszary aktywowane spojrzeniem
-ReduceVolume,18:05:57.262,18:06:06.875,9613.194200000004,5,False,,sub-04,Obszary aktywowane spojrzeniem
-PauseAndResume,18:06:11.578,18:06:20.968,9390.4747,0,True,,sub-04,Obszary aktywowane spojrzeniem
-SetVideo,18:06:26.739,18:06:30.749,4010.018800000005,0,True,,sub-04,Obszary aktywowane spojrzeniem
-FeedForward,18:06:36.658,18:06:47.264,10606.149700000009,0,True,,sub-04,Obszary aktywowane spojrzeniem
-Rewind,18:06:51.906,18:07:07.516,15610.611800000011,2,True,,sub-04,Obszary aktywowane spojrzeniem
-PauseAndResume,18:07:11.240,18:07:14.801,3560.5470999999957,0,True,,sub-04,Obszary aktywowane spojrzeniem
-IncreaseVolume,18:07:19.970,18:07:28.249,8278.842400000009,0,True,,sub-04,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,18:07:34.9,18:07:41.669,7659.50529999999,0,True,,sub-04,Obszary aktywowane spojrzeniem
-IncreaseVolume,18:07:50.700,18:08:03.356,12655.454100000004,0,True,,sub-04,Obszary aktywowane spojrzeniem
-PauseAndResume,18:08:07.453,18:08:11.738,4285.587799999979,0,True,,sub-04,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,18:08:17.322,18:08:22.796,5474.385999999999,1,True,,sub-04,Obszary aktywowane spojrzeniem
-FeedForward,18:08:28.19,18:08:42.906,14887.15399999998,1,True,,sub-04,Obszary aktywowane spojrzeniem
-Pause,18:08:45.592,18:08:47.792,2199.3810999999987,1,False,,sub-04,Obszary aktywowane spojrzeniem
-FeedForward,18:33:20.139,18:33:36.822,16682.712900000002,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,18:33:42.288,18:33:54.195,11907.255300000004,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,18:33:56.32,18:34:14.18,17986.43329999999,1,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,18:34:17.188,18:34:22.65,4877.7837,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,18:34:25.684,18:34:33.888,8204.04849999999,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,18:34:38.343,18:34:42.144,3801.5201999999986,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,18:34:45.866,18:34:57.771,11905.174499999996,2,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,18:35:03.134,18:35:17.738,14604.005300000019,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,18:35:20.945,18:35:39.561,18616.2297,10,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,17:50:43.954,17:50:57.364,13410.0533,1,True,,sub-05,Przyciski wzrokowe
-Rewind,17:51:03.20,17:51:11.839,8819.1129,1,True,,sub-05,Przyciski wzrokowe
-ReduceVolume,17:51:16.495,17:51:28.159,11664.0884,1,True,,sub-05,Przyciski wzrokowe
-PauseAndResume,17:51:33.819,17:51:40.509,6689.351699999991,0,True,,sub-05,Przyciski wzrokowe
-SetVideo,17:51:46.82,17:51:49.587,3505.3074000000047,0,True,,sub-05,Przyciski wzrokowe
-PauseAndResume,17:51:54.889,17:52:01.212,6323.6495,0,True,,sub-05,Przyciski wzrokowe
-IncreaseVolume,17:52:05.111,17:52:09.837,4725.639599999995,0,False,,sub-05,Przyciski wzrokowe
-SetPanelAndVideo,17:52:15.342,17:52:27.589,12247.740900000004,3,False,,sub-05,Przyciski wzrokowe
-FeedForward,17:52:34.176,17:52:42.557,8380.370400000013,1,True,,sub-05,Przyciski wzrokowe
-IncreaseVolume,17:52:47.687,17:52:52.222,4535.454700000002,0,True,,sub-05,Przyciski wzrokowe
-PauseAndResume,17:52:57.597,17:53:03.277,5679.11069999999,0,True,,sub-05,Przyciski wzrokowe
-SetPanelAndVideo,17:53:07.978,17:53:12.975,4996.952099999995,1,True,,sub-05,Przyciski wzrokowe
-FeedForward,17:53:17.522,17:53:27.637,10115.486000000004,0,True,,sub-05,Przyciski wzrokowe
-Pause,17:53:30.588,17:53:33.615,3027.1643000000045,1,False,,sub-05,Przyciski wzrokowe
-FeedForward,18:17:55.423,18:18:04.246,8823.374499999998,0,True,,sub-05,Obszary aktywowane spojrzeniem
-Rewind,18:18:07.585,18:18:16.281,8695.8229,0,True,,sub-05,Obszary aktywowane spojrzeniem
-ReduceVolume,18:18:20.350,18:18:35.990,15640.1385,0,True,,sub-05,Obszary aktywowane spojrzeniem
-PauseAndResume,18:18:40.159,18:18:44.439,4280.237799999988,0,True,,sub-05,Obszary aktywowane spojrzeniem
-SetVideo,18:18:48.168,18:18:51.530,3361.930999999997,0,False,,sub-05,Obszary aktywowane spojrzeniem
-PauseAndResume,18:18:55.89,18:18:59.525,4435.768499999991,0,True,,sub-05,Obszary aktywowane spojrzeniem
-ReduceVolume,18:19:03.144,18:19:10.519,7375.578099999999,0,True,,sub-05,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,18:19:14.680,18:19:24.916,10235.7834,5,True,,sub-05,Obszary aktywowane spojrzeniem
-FeedForward,18:19:29.752,18:19:40.939,11187.079400000002,0,True,,sub-05,Obszary aktywowane spojrzeniem
-ReduceVolume,18:20:17.270,18:20:29.277,12006.228600000002,0,True,,sub-05,Obszary aktywowane spojrzeniem
-PauseAndResume,18:20:33.358,18:20:37.902,4544.653200000002,0,True,,sub-05,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,18:20:42.662,18:20:49.195,6533.223100000003,1,True,,sub-05,Obszary aktywowane spojrzeniem
-FeedForward,18:20:58.893,18:21:11.661,12768.389199999998,0,True,,sub-05,Obszary aktywowane spojrzeniem
-Pause,18:21:13.830,18:21:16.322,2491.7627000000066,1,False,,sub-05,Obszary aktywowane spojrzeniem
-FeedForward,17:25:48.795,17:27:17.388,88592.7864,0,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,17:27:23.413,17:28:43.397,79984.5308,4,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,17:28:47.997,17:28:51.848,3850.904600000009,0,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,17:28:55.254,17:28:58.987,3733.330000000016,0,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,17:29:04.7,17:29:12.194,8187.363799999992,0,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,17:30:25.377,17:30:33.374,7996.509200000004,3,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,17:30:33.374,17:30:47.71,13697.072899999992,3,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,17:30:51.715,17:31:05.627,13911.810600000004,6,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,17:31:12.531,17:31:23.545,11014.551699999995,3,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,17:31:27.107,17:31:31.24,3917.3545000000013,0,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,17:31:35.425,17:31:41.56,5631.064700000003,2,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,17:31:41.56,17:31:47.334,6278.371299999999,0,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,16:42:26.200,16:42:53.730,27530.2206,1,True,,sub-06,Przyciski wzrokowe
-ReduceVolume,16:42:58.98,16:43:09.507,11408.227199999996,2,True,,sub-06,Przyciski wzrokowe
-PauseAndResume,16:43:16.38,16:43:24.869,8831.335500000001,0,True,,sub-06,Przyciski wzrokowe
-SetVideo,16:43:30.821,16:43:38.382,7561.088600000003,0,True,,sub-06,Przyciski wzrokowe
-FeedForward,16:43:41.926,16:43:48.469,6543.229800000001,1,True,,sub-06,Przyciski wzrokowe
-Rewind,16:43:53.259,16:44:03.830,10570.562999999996,1,True,,sub-06,Przyciski wzrokowe
-PauseAndResume,16:44:06.721,16:44:14.954,8232.976599999995,0,True,,sub-06,Przyciski wzrokowe
-IncreaseVolume,16:44:19.161,16:44:25.693,6531.3979999999865,0,False,,sub-06,Przyciski wzrokowe
-SetPanelAndVideo,16:44:30.754,16:44:40.406,9651.940700000006,3,True,,sub-06,Przyciski wzrokowe
-IncreaseVolume,16:44:46.993,16:44:58.954,11960.671800000013,1,True,,sub-06,Przyciski wzrokowe
-PauseAndResume,16:45:02.813,16:45:09.32,6219.894499999995,0,True,,sub-06,Przyciski wzrokowe
-SetPanelAndVideo,16:45:14.18,16:45:18.519,4500.717699999979,1,True,,sub-06,Przyciski wzrokowe
-FeedForward,16:45:23.32,16:45:43.148,20116.141000000003,0,True,,sub-06,Przyciski wzrokowe
-Pause,16:45:46.37,16:45:49.725,3688.574599999993,1,False,,sub-06,Przyciski wzrokowe
-FeedForward,16:17:28.678,16:17:47.817,19139.7156,0,True,,sub-06,Obszary aktywowane spojrzeniem
-IncreaseVolume,16:17:51.976,16:18:02.199,10222.580999999998,0,True,,sub-06,Obszary aktywowane spojrzeniem
-PauseAndResume,16:18:04.795,16:18:11.126,6331.081400000003,0,True,,sub-06,Obszary aktywowane spojrzeniem
-SetVideo,16:18:14.468,16:18:18.451,3982.991999999999,0,True,,sub-06,Obszary aktywowane spojrzeniem
-FeedForward,16:18:21.983,16:18:53.338,31355.144199999995,7,True,,sub-06,Obszary aktywowane spojrzeniem
-PauseAndResume,16:18:57.728,16:19:02.355,4627.306700000001,0,True,,sub-06,Obszary aktywowane spojrzeniem
-ReduceVolume,16:19:06.405,16:19:18.177,11772.170599999998,0,True,,sub-06,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,16:19:22.914,16:19:30.332,7418.359499999991,0,True,,sub-06,Obszary aktywowane spojrzeniem
-FeedForward,16:19:35.608,16:19:49.265,13656.952600000019,1,True,,sub-06,Obszary aktywowane spojrzeniem
-Rewind,16:19:52.247,16:21:15.923,83675.5478,7,True,,sub-06,Obszary aktywowane spojrzeniem
-ReduceVolume,16:21:25.228,16:21:45.226,19998.046999999962,2,True,,sub-06,Obszary aktywowane spojrzeniem
-PauseAndResume,16:21:52.756,16:22:01.47,8291.574799999944,0,True,,sub-06,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,16:22:07.265,16:22:11.734,4469.174999999987,1,True,,sub-06,Obszary aktywowane spojrzeniem
-Pause,16:22:14.383,16:22:18.678,4294.321399999957,1,False,,sub-06,Obszary aktywowane spojrzeniem
-FeedForward,15:46:30.672,15:47:01.310,30637.900000000016,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,15:47:07.486,15:47:28.904,21418.494900000005,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,15:47:33.704,15:47:44.740,11035.24470000001,2,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,15:47:49.985,15:47:53.972,3987.103399999993,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,15:47:59.221,15:49:02.657,63436.053,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,15:49:08.37,15:49:11.598,3560.3227999999945,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,15:49:15.607,15:49:31.519,15911.784199999995,1,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,15:49:36.665,15:49:42.356,5691.039300000004,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,15:49:49.287,15:50:09.817,20530.0318,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,15:50:13.444,15:50:55.3,41559.668599999975,3,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,15:51:00.402,15:51:28.472,28070.18359999999,3,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,15:51:31.848,15:51:37.782,5934.291000000026,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,15:51:41.912,15:51:50.715,8802.372900000017,1,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-Pause,15:51:53.223,15:51:56.35,2811.6421000000555,1,False,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,10:23:00.633,10:23:38.252,37619.1693,4,True,,sub-07,Przyciski wzrokowe
-IncreaseVolume,10:23:45.792,10:23:51.28,5235.585999999996,5,False,,sub-07,Przyciski wzrokowe
-PauseAndResume,10:23:56.178,10:24:01.820,5641.855899999995,0,True,,sub-07,Przyciski wzrokowe
-SetVideo,10:24:04.261,10:24:09.958,5697.713699999993,4,True,,sub-07,Przyciski wzrokowe
-FeedForward,10:24:17.863,10:24:26.351,8487.647299999997,2,False,,sub-07,Przyciski wzrokowe
-PauseAndResume,10:24:42.860,10:24:54.390,11529.753999999999,12,False,,sub-07,Przyciski wzrokowe
-IncreaseVolume,10:25:02.60,10:25:11.914,9853.57920000001,3,True,,sub-07,Przyciski wzrokowe
-SetPanelAndVideo,10:25:13.284,10:25:17.183,3899.275300000008,1,False,,sub-07,Przyciski wzrokowe
-FeedForward,10:25:23.790,10:25:31.430,7639.952000000019,0,True,,sub-07,Przyciski wzrokowe
-Rewind,10:25:37.32,10:25:43.272,6239.949900000007,6,False,,sub-07,Przyciski wzrokowe
-ReduceVolume,10:25:47.629,10:25:55.857,8228.415299999993,2,False,,sub-07,Przyciski wzrokowe
-PauseAndResume,10:26:03.485,10:26:11.306,7820.749899999995,4,False,,sub-07,Przyciski wzrokowe
-SetPanelAndVideo,10:26:15.965,10:26:22.517,6551.6263000000035,9,False,,sub-07,Przyciski wzrokowe
-Pause,10:26:26.352,10:26:29.252,2899.3467999999993,1,False,,sub-07,Przyciski wzrokowe
-FeedForward,10:50:10.652,10:50:22.902,12249.0596,0,True,,sub-07,Obszary aktywowane spojrzeniem
-IncreaseVolume,10:50:25.895,10:50:47.907,22012.0143,6,True,,sub-07,Obszary aktywowane spojrzeniem
-PauseAndResume,10:50:48.988,10:51:00.722,11734.7062,1,True,,sub-07,Obszary aktywowane spojrzeniem
-SetVideo,10:51:05.933,10:51:10.176,4243.029999999999,0,False,,sub-07,Obszary aktywowane spojrzeniem
-FeedForward,10:51:15.110,10:51:36.496,21386.644700000004,7,True,,sub-07,Obszary aktywowane spojrzeniem
-FeedForward,10:51:41.38,10:51:53.335,12296.4847,4,True,,sub-07,Obszary aktywowane spojrzeniem
-PauseAndResume,10:51:53.468,10:52:02.837,9369.00480000001,1,False,,sub-07,Obszary aktywowane spojrzeniem
-IncreaseVolume,10:52:07.596,10:52:27.608,20011.959299999988,3,True,,sub-07,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,10:52:34.267,10:52:48.174,13907.317299999995,0,False,,sub-07,Obszary aktywowane spojrzeniem
-ReduceVolume,10:53:01.157,10:53:42.289,41132.45810000002,11,True,,sub-07,Obszary aktywowane spojrzeniem
-PauseAndResume,10:53:42.289,10:53:54.527,12238.250499999995,0,True,,sub-07,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,10:54:01.221,10:54:14.232,13011.266600000004,4,False,,sub-07,Obszary aktywowane spojrzeniem
-FeedForward,10:54:18.477,10:54:28.31,9554.467499999972,4,True,,sub-07,Obszary aktywowane spojrzeniem
-Pause,10:54:30.901,10:54:32.502,1601.8796999999906,1,False,,sub-07,Obszary aktywowane spojrzeniem
-FeedForward,11:18:33.19,11:19:23.631,50612.1632,3,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,11:19:23.710,11:20:06.141,42430.0784,1,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,11:20:13.312,11:22:17.567,124254.7907,1,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,11:22:23.804,11:22:27.924,4119.68829999998,0,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,11:22:33.943,11:23:00.903,26960.2506,24,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,11:23:06.987,11:23:12.569,5581.480700000015,1,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,11:23:21.184,11:24:11.880,50696.717400000016,0,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,11:24:16.115,11:24:18.977,2862.95769999997,0,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,11:24:27.672,11:26:00.609,92937.3151,1,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,11:26:00.609,11:26:59.438,58829.21509999997,1,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,11:27:02.561,11:27:06.971,4410.0293999999985,0,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,11:27:14.143,11:27:23.302,9158.745200000003,7,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,11:27:31.465,11:27:45.557,14092.113799999934,1,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-Pause,11:27:49.72,11:27:49.744,671.8438000000315,1,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,15:14:43.429,15:15:02.800,19370.6248,0,True,,sub-08,Przyciski wzrokowe
-IncreaseVolume,15:15:08.103,15:15:19.553,11449.828700000013,0,True,,sub-08,Przyciski wzrokowe
-PauseAndResume,15:15:25.853,15:15:31.685,5831.1665000000075,0,True,,sub-08,Przyciski wzrokowe
-SetVideo,15:15:35.522,15:15:40.326,4803.612899999994,0,True,,sub-08,Przyciski wzrokowe
-FeedForward,15:15:46.956,15:16:02.365,15409.358299999993,0,False,,sub-08,Przyciski wzrokowe
-Rewind,15:16:07.382,15:16:17.709,10326.739899999986,1,True,,sub-08,Przyciski wzrokowe
-PauseAndResume,15:16:23.410,15:16:33.395,9985.106,0,True,,sub-08,Przyciski wzrokowe
-ReduceVolume,15:16:39.433,15:16:44.754,5320.181399999972,0,False,,sub-08,Przyciski wzrokowe
-SetPanelAndVideo,15:16:52.13,15:17:03.862,11848.212200000007,6,True,,sub-08,Przyciski wzrokowe
-ReduceVolume,15:17:11.122,15:17:15.519,4396.719400000002,0,True,,sub-08,Przyciski wzrokowe
-PauseAndResume,15:17:19.853,15:17:28.404,8551.693599999999,0,True,,sub-08,Przyciski wzrokowe
-SetPanelAndVideo,15:17:33.847,15:17:41.977,8130.184199999989,1,True,,sub-08,Przyciski wzrokowe
-FeedForward,15:17:47.178,15:17:58.580,11402.116500000006,1,True,,sub-08,Przyciski wzrokowe
-Pause,15:18:03.79,15:18:03.606,526.9875000000175,1,False,,sub-08,Przyciski wzrokowe
-FeedForward,16:05:58.189,16:06:08.547,10358.1204,0,True,,sub-08,Obszary aktywowane spojrzeniem
-Rewind,16:06:12.94,16:06:21.325,9231.249799999998,0,True,,sub-08,Obszary aktywowane spojrzeniem
-ReduceVolume,16:06:25.870,16:06:36.218,10347.5282,0,True,,sub-08,Obszary aktywowane spojrzeniem
-PauseAndResume,16:06:40.302,16:06:44.311,4008.184500000003,0,True,,sub-08,Obszary aktywowane spojrzeniem
-SetVideo,16:06:47.591,16:06:52.847,5256.138699999996,0,True,,sub-08,Obszary aktywowane spojrzeniem
-PauseAndResume,16:06:57.98,16:07:01.145,4047.510899999994,0,True,,sub-08,Obszary aktywowane spojrzeniem
-IncreaseVolume,16:07:04.859,16:07:11.878,7018.874500000004,0,True,,sub-08,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,16:07:16.936,16:07:22.926,5990.046099999991,3,False,,sub-08,Obszary aktywowane spojrzeniem
-FeedForward,16:07:27.466,16:07:36.562,9096.318899999998,0,True,,sub-08,Obszary aktywowane spojrzeniem
-IncreaseVolume,16:07:40.231,16:07:50.118,9886.5803,0,True,,sub-08,Obszary aktywowane spojrzeniem
-PauseAndResume,16:07:52.313,16:07:56.803,4490.14390000001,0,True,,sub-08,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,16:08:02.18,16:08:07.424,5405.511300000013,1,True,,sub-08,Obszary aktywowane spojrzeniem
-FeedForward,16:08:12.888,16:08:30.185,17296.373799999972,0,True,,sub-08,Obszary aktywowane spojrzeniem
-Pause,16:08:32.541,16:08:34.840,2298.5342999999993,1,False,,sub-08,Obszary aktywowane spojrzeniem
-FeedForward,12:29:22.827,12:29:27.383,4556.109400000001,0,False,,sub-09,Przyciski wzrokowe
-Rewind,12:29:31.263,12:29:36.643,5379.853900000002,4,True,,sub-09,Przyciski wzrokowe
-IncreaseVolume,12:29:42.736,12:30:07.336,24600.161,7,True,,sub-09,Przyciski wzrokowe
-PauseAndResume,12:30:40.384,12:31:47.264,66880.44709999999,28,True,,sub-09,Przyciski wzrokowe
-SetVideo,12:31:51.294,12:32:01.662,10368.416499999992,0,True,,sub-09,Przyciski wzrokowe
-PauseAndResume,12:32:06.335,12:32:16.216,9880.101900000038,0,True,,sub-09,Przyciski wzrokowe
-IncreaseVolume,12:32:22.195,12:32:44.912,22716.32870000001,4,True,,sub-09,Przyciski wzrokowe
-SetPanelAndVideo,12:32:51.905,12:33:02.90,10185.722299999994,0,False,,sub-09,Przyciski wzrokowe
-FeedForward,12:33:09.741,12:33:16.881,7139.566300000006,0,False,,sub-09,Przyciski wzrokowe
-ReduceVolume,12:33:24.43,12:33:33.184,9140.418599999975,2,True,,sub-09,Przyciski wzrokowe
-PauseAndResume,12:33:37.613,12:33:48.677,11063.74530000001,0,True,,sub-09,Przyciski wzrokowe
-SetPanelAndVideo,12:33:54.473,12:34:11.563,17090.014100000033,3,False,,sub-09,Przyciski wzrokowe
-FeedForward,12:34:16.415,12:34:37.938,21523.195699999982,8,True,,sub-09,Przyciski wzrokowe
-Pause,12:34:44.486,12:34:49.483,4996.932299999986,0,False,,sub-09,Przyciski wzrokowe
-FeedForward,11:58:32.350,11:59:15.233,42883.69340000001,6,True,,sub-09,Obszary aktywowane spojrzeniem
-ReduceVolume,11:59:20.233,11:59:35.753,15519.577300000004,2,True,,sub-09,Obszary aktywowane spojrzeniem
-PauseAndResume,11:59:41.873,11:59:46.266,4392.495000000011,0,True,,sub-09,Obszary aktywowane spojrzeniem
-SetVideo,11:59:53.775,12:00:16.111,22336.8355,2,True,,sub-09,Obszary aktywowane spojrzeniem
-FeedForward,12:00:25.468,12:00:44.453,18985.410600000007,1,True,,sub-09,Obszary aktywowane spojrzeniem
-FeedForward,12:00:48.583,12:00:53.726,5143.095499999996,0,True,,sub-09,Obszary aktywowane spojrzeniem
-PauseAndResume,12:00:58.662,12:01:33.662,34999.41940000001,9,True,,sub-09,Obszary aktywowane spojrzeniem
-ReduceVolume,12:01:42.871,12:01:59.332,16461.046700000006,2,False,,sub-09,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,12:02:07.943,12:02:16.989,9045.819900000002,4,False,,sub-09,Obszary aktywowane spojrzeniem
-ReduceVolume,12:02:21.487,12:02:34.712,13225.061400000004,2,True,,sub-09,Obszary aktywowane spojrzeniem
-FeedForward,12:59:27.990,13:00:06.391,38401.0912,0,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,13:00:10.736,13:00:51.254,40517.8421,0,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,13:00:37.71,13:00:56.684,19612.925700000007,1,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,13:00:56.763,13:01:56.548,59784.60979999999,3,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,13:02:02.6,13:02:14.521,12514.719000000012,2,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,13:02:21.775,13:03:39.45,77270.2058,7,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,13:03:45.634,13:04:01.357,15723.109600000025,0,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,13:04:08.80,13:04:46.554,38474.790099999984,8,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,13:04:50.857,13:04:57.164,6307.007199999993,1,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,13:05:00.853,13:05:15.97,14243.85129999998,1,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,13:05:15.75,13:05:19.896,4820.971799999998,1,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,13:05:19.986,13:06:08.538,48552.07539999997,6,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,14:54:26.970,14:54:45.340,18369.7327,1,True,,sub-12,Przyciski wzrokowe
-Rewind,14:54:49.658,14:54:57.788,8129.602899999997,1,True,,sub-12,Przyciski wzrokowe
-ReduceVolume,14:55:02.648,14:55:20.897,18249.3106,0,False,,sub-12,Przyciski wzrokowe
-PauseAndResume,14:55:27.119,14:55:32.421,5301.977799999993,0,True,,sub-12,Przyciski wzrokowe
-SetVideo,14:55:36.954,14:55:40.299,3344.420300000012,0,True,,sub-12,Przyciski wzrokowe
-PauseAndResume,14:55:44.318,14:55:49.552,5233.529500000004,0,True,,sub-12,Przyciski wzrokowe
-IncreaseVolume,14:55:53.392,14:56:08.642,15250.300699999993,3,True,,sub-12,Przyciski wzrokowe
-SetPanelAndVideo,14:56:13.852,14:56:24.329,10476.8076,3,True,,sub-12,Przyciski wzrokowe
-FeedForward,14:56:30.41,14:56:40.781,10739.922099999996,1,False,,sub-12,Przyciski wzrokowe
-IncreaseVolume,14:56:46.888,14:56:54.31,7143.881500000019,0,False,,sub-12,Przyciski wzrokowe
-PauseAndResume,14:57:01.48,14:57:08.763,7715.3904999999795,0,True,,sub-12,Przyciski wzrokowe
-SetPanelAndVideo,14:57:15.323,14:57:23.498,8175.2135000000135,1,True,,sub-12,Przyciski wzrokowe
-FeedForward,14:57:27.996,14:57:38.857,10860.930999999982,0,True,,sub-12,Przyciski wzrokowe
-Pause,14:57:41.397,14:57:44.40,2642.991700000013,1,False,,sub-12,Przyciski wzrokowe
-FeedForward,14:40:29.542,14:40:47.381,17838.4034,0,True,,sub-12,Obszary aktywowane spojrzeniem
-ReduceVolume,14:40:53.867,14:41:05.179,11312.853600000002,0,True,,sub-12,Obszary aktywowane spojrzeniem
-PauseAndResume,14:41:08.522,14:41:13.340,4817.665299999993,0,True,,sub-12,Obszary aktywowane spojrzeniem
-SetVideo,14:41:16.479,14:41:20.516,4037.136100000003,0,True,,sub-12,Obszary aktywowane spojrzeniem
-FeedForward,14:41:25.807,14:42:01.961,36154.335000000014,10,True,,sub-12,Obszary aktywowane spojrzeniem
-Rewind,14:42:07.27,14:42:21.214,14186.876000000006,0,True,,sub-12,Obszary aktywowane spojrzeniem
-PauseAndResume,14:42:26.205,14:42:30.751,4545.649999999994,0,True,,sub-12,Obszary aktywowane spojrzeniem
-ReduceVolume,14:42:35.766,14:42:46.266,10500.1164,1,True,,sub-12,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,14:42:51.182,14:43:03.530,12347.743499999982,0,True,,sub-12,Obszary aktywowane spojrzeniem
-ReduceVolume,14:43:08.117,14:43:24.306,16188.496999999974,0,True,,sub-12,Obszary aktywowane spojrzeniem
-PauseAndResume,14:43:30.168,14:43:34.611,4442.864600000001,0,True,,sub-12,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,14:43:40.525,14:43:46.46,5521.630499999998,1,True,,sub-12,Obszary aktywowane spojrzeniem
-FeedForward,14:43:49.956,14:44:10.147,20190.46169999998,1,True,,sub-12,Obszary aktywowane spojrzeniem
-Pause,14:44:16.236,14:44:19.954,3717.4590000000026,1,False,,sub-12,Obszary aktywowane spojrzeniem
-FeedForward,14:18:20.292,14:18:44.599,24307.379499999995,11,False,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,14:18:52.935,14:19:11.633,18697.8613,1,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,14:19:11.866,14:19:27.950,16084.122399999993,4,False,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,14:19:33.776,14:19:37.559,3783.7930000000047,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,14:19:42.939,14:19:47.171,4232.2402999999895,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,14:19:51.42,14:19:54.811,3768.911500000002,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,14:20:00.931,14:20:18.291,17359.8128,1,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,14:20:25.819,14:20:31.273,5453.489999999991,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,14:20:36.667,14:21:04.501,27833.462899999984,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,14:21:13.825,14:21:30.176,16350.95749999999,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,14:21:33.31,14:21:45.723,12692.098599999998,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,14:21:45.723,14:21:51.496,5773.429600000002,1,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,14:21:56.278,14:22:23.203,26925.520300000004,2,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-Pause,14:22:23.906,14:22:24.824,917.3684000000356,0,False,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,10:57:42.728,10:58:25.447,42719.5434,8,True,,sub-15,Przyciski wzrokowe
-IncreaseVolume,10:58:33.259,10:59:04.818,31559.2861,4,True,,sub-15,Przyciski wzrokowe
-PauseAndResume,10:59:09.685,10:59:44.960,35274.721000000005,20,True,,sub-15,Przyciski wzrokowe
-SetVideo,11:00:05.350,11:00:34.132,28781.43150000001,0,False,,sub-15,Przyciski wzrokowe
-FeedForward,11:00:39.645,11:00:51.18,11373.157399999995,2,True,,sub-15,Przyciski wzrokowe
-Rewind,11:00:59.78,11:01:09.986,10907.886200000008,2,False,,sub-15,Przyciski wzrokowe
-PauseAndResume,11:01:16.47,11:01:25.116,9069.007000000012,6,False,,sub-15,Przyciski wzrokowe
-IncreaseVolume,11:01:32.996,11:02:36.114,63118.044,7,False,,sub-15,Przyciski wzrokowe
-SetPanelAndVideo,11:02:40.855,11:02:51.15,10159.48789999995,3,False,,sub-15,Przyciski wzrokowe
-ReduceVolume,11:02:53.695,11:03:06.24,12329.301800000017,5,False,,sub-15,Przyciski wzrokowe
-PauseAndResume,11:03:10.204,11:03:22.874,12670.141000000005,8,False,,sub-15,Przyciski wzrokowe
-SetPanelAndVideo,11:03:27.964,11:03:42.133,14168.59659999999,3,False,,sub-15,Przyciski wzrokowe
-FeedForward,11:03:42.506,11:03:46.743,4236.899099999981,1,False,,sub-15,Przyciski wzrokowe
-Pause,11:03:49.52,11:03:53.951,4898.527200000011,1,False,,sub-15,Przyciski wzrokowe
-FeedForward,10:34:00.62,10:34:13.734,13671.6684,9,False,,sub-15,Obszary aktywowane spojrzeniem
-IncreaseVolume,10:34:15.970,10:34:23.536,7565.777499999997,5,False,,sub-15,Obszary aktywowane spojrzeniem
-PauseAndResume,10:34:26.695,10:34:38.952,12256.9191,0,True,,sub-15,Obszary aktywowane spojrzeniem
-SetVideo,10:34:48.669,10:35:54.582,65913.4242,3,False,,sub-15,Obszary aktywowane spojrzeniem
-FeedForward,10:35:59.655,10:36:22.595,22940.3915,1,True,,sub-15,Obszary aktywowane spojrzeniem
-PauseAndResume,10:36:22.987,10:37:08.443,45455.41990000001,9,False,,sub-15,Obszary aktywowane spojrzeniem
-IncreaseVolume,10:37:09.200,10:37:21.197,11997.451,6,False,,sub-15,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,10:37:28.45,10:37:51.542,23496.61540000001,7,False,,sub-15,Obszary aktywowane spojrzeniem
-FeedForward,10:37:57.884,10:38:49.656,51771.16750000001,10,False,,sub-15,Obszary aktywowane spojrzeniem
-Rewind,10:38:56.511,10:39:17.875,21363.9314,2,True,,sub-15,Obszary aktywowane spojrzeniem
-ReduceVolume,10:39:19.498,10:39:25.90,5591.847999999997,1,False,,sub-15,Obszary aktywowane spojrzeniem
-FeedForward,11:18:33.56,11:19:10.418,37362.549800000015,1,True,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,11:19:14.760,11:19:38.3,23242.7757,7,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,11:19:38.19,11:19:52.750,14730.719500000007,0,True,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,11:19:57.80,11:20:09.33,11953.2739,0,True,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,11:20:13.938,11:20:33.343,19404.26509999999,6,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,11:20:36.835,11:20:49.301,12465.880399999995,1,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,11:21:25.707,11:21:45.150,19442.218599999997,3,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,11:21:49.677,11:22:27.139,37462.06640000002,9,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,11:22:32.414,11:23:46.254,73839.8982,10,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,11:23:51.198,11:24:05.485,14287.689200000024,1,True,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,11:24:11.921,11:24:38.754,26832.634700000053,10,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,11:25:00.311,11:26:12.80,71769.7771,14,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,11:26:13.166,11:26:19.146,5979.321600000025,0,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,17:40:59.252,17:41:10.437,11184.4443,1,True,,sub-16,Przyciski wzrokowe
-ReduceVolume,17:41:14.796,17:41:20.356,5559.753899999996,0,True,,sub-16,Przyciski wzrokowe
-PauseAndResume,17:41:24.743,17:41:30.962,6218.597800000002,0,True,,sub-16,Przyciski wzrokowe
-SetVideo,17:41:34.367,17:41:37.394,3026.8552999999956,0,True,,sub-16,Przyciski wzrokowe
-FeedForward,17:41:40.410,17:41:52.412,12002.28839999999,0,True,,sub-16,Przyciski wzrokowe
-PauseAndResume,17:41:58.122,17:42:05.647,7525.006299999994,0,True,,sub-16,Przyciski wzrokowe
-IncreaseVolume,17:42:10.439,17:42:16.169,5730.0285999999915,0,False,,sub-16,Przyciski wzrokowe
-SetPanelAndVideo,17:42:21.701,17:42:28.636,6934.914399999994,0,True,,sub-16,Przyciski wzrokowe
-FeedForward,17:42:35.254,17:42:53.481,18226.877599999996,0,True,,sub-16,Przyciski wzrokowe
-Rewind,17:42:56.891,17:43:03.611,6720.12049999999,1,True,,sub-16,Przyciski wzrokowe
-IncreaseVolume,17:43:07.472,17:43:12.921,5448.944499999983,0,True,,sub-16,Przyciski wzrokowe
-PauseAndResume,17:43:16.552,17:43:23.325,6773.193899999984,0,True,,sub-16,Przyciski wzrokowe
-SetPanelAndVideo,17:43:27.554,17:43:32.616,5061.602899999998,1,True,,sub-16,Przyciski wzrokowe
-Pause,17:43:36.908,17:43:40.440,3531.9027999999817,1,False,,sub-16,Przyciski wzrokowe
-FeedForward,16:44:50.696,16:45:28.361,37664.7465,0,True,,sub-16,Obszary aktywowane spojrzeniem
-Rewind,16:45:35.220,16:46:20.893,45673.0,1,True,,sub-16,Obszary aktywowane spojrzeniem
-ReduceVolume,16:46:32.749,16:46:46.827,14078.281300000002,0,True,,sub-16,Obszary aktywowane spojrzeniem
-PauseAndResume,16:46:52.97,16:46:58.193,6095.42319999999,0,True,,sub-16,Obszary aktywowane spojrzeniem
-SetVideo,16:47:04.139,16:47:09.340,5201.0601000000015,0,True,,sub-16,Obszary aktywowane spojrzeniem
-PauseAndResume,16:47:13.685,16:47:20.393,6708.702099999966,0,True,,sub-16,Obszary aktywowane spojrzeniem
-IncreaseVolume,16:47:25.893,16:47:35.924,10031.703800000018,0,True,,sub-16,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,16:47:42.737,16:47:51.57,8320.020799999998,0,True,,sub-16,Obszary aktywowane spojrzeniem
-FeedForward,16:48:00.20,16:48:18.331,18311.253800000006,0,True,,sub-16,Obszary aktywowane spojrzeniem
-IncreaseVolume,16:49:14.801,16:49:30.256,15454.512900000002,0,True,,sub-16,Obszary aktywowane spojrzeniem
-PauseAndResume,16:49:33.864,16:49:43.42,9178.9375,0,True,,sub-16,Obszary aktywowane spojrzeniem
-SetPanelAndVideo,16:49:51.0,16:50:02.293,11293.218999999996,1,False,,sub-16,Obszary aktywowane spojrzeniem
-FeedForward,16:50:08.177,16:50:20.739,12561.287299999995,0,True,,sub-16,Obszary aktywowane spojrzeniem
-Pause,16:50:24.644,16:50:28.510,3865.641300000003,1,False,,sub-16,Obszary aktywowane spojrzeniem
-FeedForward,17:16:36.153,17:17:26.972,50819.1703,2,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,17:17:29.154,17:19:14.0,104845.787,5,False,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,17:19:18.948,14:21:45.723,53271.9926,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,17:19:30.313,17:19:33.822,3509.0467000000067,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,17:19:37.625,17:19:41.48,3423.2442999999907,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,17:19:43.954,17:19:47.601,3646.6728999999764,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,17:19:50.990,17:19:58.649,7659.3251000000155,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,17:20:02.854,17:20:09.811,6956.615499999985,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,17:20:13.515,17:20:27.858,14343.72319999998,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,17:20:31.97,17:20:38.655,7558.083499999979,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,17:20:44.701,17:20:47.685,2984.267200000002,1,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,17:20:52.590,17:20:56.519,3929.2616999999736,1,False,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,17:20:59.943,17:21:12.928,12984.826699999976,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-Pause,17:21:15.140,17:21:16.939,1798.4211999999827,1,False,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,12:55:32.987,12:55:49.551,16563.6031,1,True,,sub-17,Przyciski wzrokowe
-ReduceVolume,12:55:59.10,12:56:06.761,7750.5844,0,True,,sub-17,Przyciski wzrokowe
-PauseAndResume,12:56:12.71,12:56:22.191,10120.5864,0,True,,sub-17,Przyciski wzrokowe
-SetVideo,12:56:28.25,12:56:32.279,4254.457599999994,0,True,,sub-17,Przyciski wzrokowe
-FeedForward,12:56:38.359,12:56:52.330,13971.539899999987,1,True,,sub-17,Przyciski wzrokowe
-Rewind,12:56:57.540,12:57:05.684,8143.979500000001,1,True,,sub-17,Przyciski wzrokowe
-PauseAndResume,12:57:10.3,12:57:35.396,25393.77450000001,1,True,,sub-17,Przyciski wzrokowe
-IncreaseVolume,12:57:46.216,12:57:58.886,12669.736700000007,1,True,,sub-17,Przyciski wzrokowe
-SetPanelAndVideo,12:58:06.416,12:58:16.44,9628.50020000001,0,True,,sub-17,Przyciski wzrokowe
-IncreaseVolume,12:58:24.580,12:58:32.56,7476.101999999984,0,True,,sub-17,Przyciski wzrokowe
-PauseAndResume,12:58:36.209,12:58:41.367,5157.617700000002,0,True,,sub-17,Przyciski wzrokowe
-SetPanelAndVideo,12:58:47.757,12:58:53.584,5827.375699999976,1,True,,sub-17,Przyciski wzrokowe
-FeedForward,12:58:57.912,12:59:10.715,12803.217200000016,0,True,,sub-17,Przyciski wzrokowe
-Pause,12:59:14.965,12:59:18.155,3190.054199999984,1,False,,sub-17,Przyciski wzrokowe
+FeedForward,12:27:04.676,12:27:26.340,21664.0664,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,12:27:33.835,12:27:54.688,20852.7097,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,12:28:02.770,12:28:31.712,28941.70020000001,1,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,12:28:39.261,12:28:43.147,3886.4269000000063,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,12:28:48.877,12:28:54.77,5199.99930000001,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,12:28:57.920,12:29:02.830,4909.612900000006,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,12:29:12.440,12:29:27.473,15033.763399999994,3,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,12:29:27.473,12:29:34.880,7406.248500000016,0,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,12:29:35.90,12:29:47.696,12605.628400000018,3,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,12:29:54.649,12:30:31.490,36841.17989999999,9,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,12:30:31.723,12:30:35.673,3950.050400000008,1,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,12:30:41.936,12:30:52.829,10893.7776,3,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+Pause,12:30:57.710,12:31:12.286,14575.706500000031,7,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,12:27:04.676,12:27:26.340,21664.0664,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,12:27:33.835,12:27:54.688,20852.7097,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,12:28:02.770,12:28:31.712,28941.70020000001,1,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,12:28:39.261,12:28:43.147,3886.4269000000063,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,12:28:48.877,12:28:54.77,5199.99930000001,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,12:28:57.920,12:29:02.830,4909.612900000006,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,12:29:12.440,12:29:27.473,15033.763399999994,3,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,12:29:27.473,12:29:34.880,7406.248500000016,0,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,12:29:35.90,12:29:47.696,12605.628400000018,3,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,12:29:54.649,12:30:31.490,36841.17989999999,9,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,12:30:31.723,12:30:35.673,3950.050400000008,1,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,12:30:41.936,12:30:52.829,10893.7776,3,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+Pause,12:30:57.710,12:31:12.286,14575.706500000031,7,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
 FeedForward,13:23:07.2,13:23:21.820,14817.8903,0,True,,sub-17,Obszary aktywowane spojrzeniem
 ReduceVolume,13:23:26.96,13:23:39.274,13178.155,0,True,,sub-17,Obszary aktywowane spojrzeniem
 PauseAndResume,13:23:43.545,13:23:48.872,5327.900399999999,0,True,,sub-17,Obszary aktywowane spojrzeniem
@@ -472,16 +39,448 @@ PauseAndResume,13:25:48.769,13:25:54.206,5436.570699999982,0,True,,sub-17,Obszar
 SetPanelAndVideo,13:26:01.205,13:26:07.654,6448.528200000002,1,True,,sub-17,Obszary aktywowane spojrzeniem
 FeedForward,13:26:13.257,13:26:29.665,16408.3511,1,True,,sub-17,Obszary aktywowane spojrzeniem
 Pause,13:26:32.741,13:26:35.51,2309.2509000000136,1,False,,sub-17,Obszary aktywowane spojrzeniem
-FeedForward,12:27:04.676,12:27:26.340,21664.0664,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,12:27:33.835,12:27:54.688,20852.7097,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-ReduceVolume,12:28:02.770,12:28:31.712,28941.70020000001,1,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,12:28:39.261,12:28:43.147,3886.4269000000063,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-SetVideo,12:28:48.877,12:28:54.77,5199.99930000001,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,12:28:57.920,12:29:02.830,4909.612900000006,0,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-IncreaseVolume,12:29:12.440,12:29:27.473,15033.763399999994,3,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,12:29:27.473,12:29:34.880,7406.248500000016,0,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-FeedForward,12:29:35.90,12:29:47.696,12605.628400000018,3,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-PauseAndResume,12:29:54.649,12:30:31.490,36841.17989999999,9,True,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-SetPanelAndVideo,12:30:31.723,12:30:35.673,3950.050400000008,1,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-Rewind,12:30:41.936,12:30:52.829,10893.7776,3,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
-Pause,12:30:57.710,12:31:12.286,14575.706500000031,7,False,,sub-17,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,12:55:32.987,12:55:49.551,16563.6031,1,True,,sub-17,Przyciski wzrokowe
+ReduceVolume,12:55:59.10,12:56:06.761,7750.5844,0,True,,sub-17,Przyciski wzrokowe
+PauseAndResume,12:56:12.71,12:56:22.191,10120.5864,0,True,,sub-17,Przyciski wzrokowe
+SetVideo,12:56:28.25,12:56:32.279,4254.457599999994,0,True,,sub-17,Przyciski wzrokowe
+FeedForward,12:56:38.359,12:56:52.330,13971.539899999987,1,True,,sub-17,Przyciski wzrokowe
+Rewind,12:56:57.540,12:57:05.684,8143.979500000001,1,True,,sub-17,Przyciski wzrokowe
+PauseAndResume,12:57:10.3,12:57:35.396,25393.77450000001,1,True,,sub-17,Przyciski wzrokowe
+IncreaseVolume,12:57:46.216,12:57:58.886,12669.736700000007,1,True,,sub-17,Przyciski wzrokowe
+SetPanelAndVideo,12:58:06.416,12:58:16.44,9628.50020000001,0,True,,sub-17,Przyciski wzrokowe
+IncreaseVolume,12:58:24.580,12:58:32.56,7476.101999999984,0,True,,sub-17,Przyciski wzrokowe
+PauseAndResume,12:58:36.209,12:58:41.367,5157.617700000002,0,True,,sub-17,Przyciski wzrokowe
+SetPanelAndVideo,12:58:47.757,12:58:53.584,5827.375699999976,1,True,,sub-17,Przyciski wzrokowe
+FeedForward,12:58:57.912,12:59:10.715,12803.217200000016,0,True,,sub-17,Przyciski wzrokowe
+Pause,12:59:14.965,12:59:18.155,3190.054199999984,1,False,,sub-17,Przyciski wzrokowe
+FeedForward,17:16:36.153,17:17:26.972,50819.1703,2,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,17:17:29.154,17:19:14.0,104845.787,5,False,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,17:19:18.948,14:21:45.723,53271.9926,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,17:19:30.313,17:19:33.822,3509.0467000000067,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,17:19:37.625,17:19:41.48,3423.2442999999907,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,17:19:43.954,17:19:47.601,3646.6728999999764,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,17:19:50.990,17:19:58.649,7659.3251000000155,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,17:20:02.854,17:20:09.811,6956.615499999985,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,17:20:13.515,17:20:27.858,14343.72319999998,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,17:20:31.97,17:20:38.655,7558.083499999979,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,17:20:44.701,17:20:47.685,2984.267200000002,1,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,17:20:52.590,17:20:56.519,3929.2616999999736,1,False,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,17:20:59.943,17:21:12.928,12984.826699999976,0,True,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+Pause,17:21:15.140,17:21:16.939,1798.4211999999827,1,False,,sub-16,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,16:49:14.801,16:49:30.256,15454.512900000002,0,True,,sub-16,Obszary aktywowane spojrzeniem
+PauseAndResume,16:49:33.864,16:49:43.42,9178.9375,0,True,,sub-16,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,16:49:51.0,16:50:02.293,11293.218999999996,1,False,,sub-16,Obszary aktywowane spojrzeniem
+FeedForward,16:50:08.177,16:50:20.739,12561.287299999995,0,True,,sub-16,Obszary aktywowane spojrzeniem
+Pause,16:50:24.644,16:50:28.510,3865.641300000003,1,False,,sub-16,Obszary aktywowane spojrzeniem
+FeedForward,16:44:50.696,16:45:28.361,37664.7465,0,True,,sub-16,Obszary aktywowane spojrzeniem
+Rewind,16:45:35.220,16:46:20.893,45673.0,1,True,,sub-16,Obszary aktywowane spojrzeniem
+ReduceVolume,16:46:32.749,16:46:46.827,14078.281300000002,0,True,,sub-16,Obszary aktywowane spojrzeniem
+PauseAndResume,16:46:52.97,16:46:58.193,6095.42319999999,0,True,,sub-16,Obszary aktywowane spojrzeniem
+SetVideo,16:47:04.139,16:47:09.340,5201.0601000000015,0,True,,sub-16,Obszary aktywowane spojrzeniem
+PauseAndResume,16:47:13.685,16:47:20.393,6708.702099999966,0,True,,sub-16,Obszary aktywowane spojrzeniem
+IncreaseVolume,16:47:25.893,16:47:35.924,10031.703800000018,0,True,,sub-16,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,16:47:42.737,16:47:51.57,8320.020799999998,0,True,,sub-16,Obszary aktywowane spojrzeniem
+FeedForward,16:48:00.20,16:48:18.331,18311.253800000006,0,True,,sub-16,Obszary aktywowane spojrzeniem
+FeedForward,17:40:59.252,17:41:10.437,11184.4443,1,True,,sub-16,Przyciski wzrokowe
+ReduceVolume,17:41:14.796,17:41:20.356,5559.753899999996,0,True,,sub-16,Przyciski wzrokowe
+PauseAndResume,17:41:24.743,17:41:30.962,6218.597800000002,0,True,,sub-16,Przyciski wzrokowe
+SetVideo,17:41:34.367,17:41:37.394,3026.8552999999956,0,True,,sub-16,Przyciski wzrokowe
+FeedForward,17:41:40.410,17:41:52.412,12002.28839999999,0,True,,sub-16,Przyciski wzrokowe
+PauseAndResume,17:41:58.122,17:42:05.647,7525.006299999994,0,True,,sub-16,Przyciski wzrokowe
+IncreaseVolume,17:42:10.439,17:42:16.169,5730.0285999999915,0,False,,sub-16,Przyciski wzrokowe
+SetPanelAndVideo,17:42:21.701,17:42:28.636,6934.914399999994,0,True,,sub-16,Przyciski wzrokowe
+FeedForward,17:42:35.254,17:42:53.481,18226.877599999996,0,True,,sub-16,Przyciski wzrokowe
+Rewind,17:42:56.891,17:43:03.611,6720.12049999999,1,True,,sub-16,Przyciski wzrokowe
+IncreaseVolume,17:43:07.472,17:43:12.921,5448.944499999983,0,True,,sub-16,Przyciski wzrokowe
+PauseAndResume,17:43:16.552,17:43:23.325,6773.193899999984,0,True,,sub-16,Przyciski wzrokowe
+SetPanelAndVideo,17:43:27.554,17:43:32.616,5061.602899999998,1,True,,sub-16,Przyciski wzrokowe
+Pause,17:43:36.908,17:43:40.440,3531.9027999999817,1,False,,sub-16,Przyciski wzrokowe
+FeedForward,11:18:33.56,11:19:10.418,37362.549800000015,1,True,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,11:19:14.760,11:19:38.3,23242.7757,7,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,11:19:38.19,11:19:52.750,14730.719500000007,0,True,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,11:19:57.80,11:20:09.33,11953.2739,0,True,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,11:20:13.938,11:20:33.343,19404.26509999999,6,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,11:20:36.835,11:20:49.301,12465.880399999995,1,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,11:21:25.707,11:21:45.150,19442.218599999997,3,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,11:21:49.677,11:22:27.139,37462.06640000002,9,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,11:22:32.414,11:23:46.254,73839.8982,10,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,11:23:51.198,11:24:05.485,14287.689200000024,1,True,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,11:24:11.921,11:24:38.754,26832.634700000053,10,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,11:25:00.311,11:26:12.80,71769.7771,14,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,11:26:13.166,11:26:19.146,5979.321600000025,0,False,,sub-15,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,10:34:00.62,10:34:13.734,13671.6684,9,False,,sub-15,Obszary aktywowane spojrzeniem
+IncreaseVolume,10:34:15.970,10:34:23.536,7565.777499999997,5,False,,sub-15,Obszary aktywowane spojrzeniem
+PauseAndResume,10:34:26.695,10:34:38.952,12256.9191,0,True,,sub-15,Obszary aktywowane spojrzeniem
+SetVideo,10:34:48.669,10:35:54.582,65913.4242,3,False,,sub-15,Obszary aktywowane spojrzeniem
+FeedForward,10:35:59.655,10:36:22.595,22940.3915,1,True,,sub-15,Obszary aktywowane spojrzeniem
+PauseAndResume,10:36:22.987,10:37:08.443,45455.41990000001,9,False,,sub-15,Obszary aktywowane spojrzeniem
+IncreaseVolume,10:37:09.200,10:37:21.197,11997.451,6,False,,sub-15,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,10:37:28.45,10:37:51.542,23496.61540000001,7,False,,sub-15,Obszary aktywowane spojrzeniem
+FeedForward,10:37:57.884,10:38:49.656,51771.16750000001,10,False,,sub-15,Obszary aktywowane spojrzeniem
+Rewind,10:38:56.511,10:39:17.875,21363.9314,2,True,,sub-15,Obszary aktywowane spojrzeniem
+ReduceVolume,10:39:19.498,10:39:25.90,5591.847999999997,1,False,,sub-15,Obszary aktywowane spojrzeniem
+FeedForward,10:57:42.728,10:58:25.447,42719.5434,8,True,,sub-15,Przyciski wzrokowe
+IncreaseVolume,10:58:33.259,10:59:04.818,31559.2861,4,True,,sub-15,Przyciski wzrokowe
+PauseAndResume,10:59:09.685,10:59:44.960,35274.721000000005,20,True,,sub-15,Przyciski wzrokowe
+SetVideo,11:00:05.350,11:00:34.132,28781.43150000001,0,False,,sub-15,Przyciski wzrokowe
+FeedForward,11:00:39.645,11:00:51.18,11373.157399999995,2,True,,sub-15,Przyciski wzrokowe
+Rewind,11:00:59.78,11:01:09.986,10907.886200000008,2,False,,sub-15,Przyciski wzrokowe
+PauseAndResume,11:01:16.47,11:01:25.116,9069.007000000012,6,False,,sub-15,Przyciski wzrokowe
+IncreaseVolume,11:01:32.996,11:02:36.114,63118.044,7,False,,sub-15,Przyciski wzrokowe
+SetPanelAndVideo,11:02:40.855,11:02:51.15,10159.48789999995,3,False,,sub-15,Przyciski wzrokowe
+ReduceVolume,11:02:53.695,11:03:06.24,12329.301800000017,5,False,,sub-15,Przyciski wzrokowe
+PauseAndResume,11:03:10.204,11:03:22.874,12670.141000000005,8,False,,sub-15,Przyciski wzrokowe
+SetPanelAndVideo,11:03:27.964,11:03:42.133,14168.59659999999,3,False,,sub-15,Przyciski wzrokowe
+FeedForward,11:03:42.506,11:03:46.743,4236.899099999981,1,False,,sub-15,Przyciski wzrokowe
+Pause,11:03:49.52,11:03:53.951,4898.527200000011,1,False,,sub-15,Przyciski wzrokowe
+FeedForward,14:18:20.292,14:18:44.599,24307.379499999995,11,False,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,14:18:52.935,14:19:11.633,18697.8613,1,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,14:19:11.866,14:19:27.950,16084.122399999993,4,False,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,14:19:33.776,14:19:37.559,3783.7930000000047,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,14:19:42.939,14:19:47.171,4232.2402999999895,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,14:19:51.42,14:19:54.811,3768.911500000002,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,14:20:00.931,14:20:18.291,17359.8128,1,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,14:20:25.819,14:20:31.273,5453.489999999991,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,14:20:36.667,14:21:04.501,27833.462899999984,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,14:21:13.825,14:21:30.176,16350.95749999999,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,14:21:33.31,14:21:45.723,12692.098599999998,0,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,14:21:45.723,14:21:51.496,5773.429600000002,1,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,14:21:56.278,14:22:23.203,26925.520300000004,2,True,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+Pause,14:22:23.906,14:22:24.824,917.3684000000356,0,False,,sub-12,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,14:40:29.542,14:40:47.381,17838.4034,0,True,,sub-12,Obszary aktywowane spojrzeniem
+ReduceVolume,14:40:53.867,14:41:05.179,11312.853600000002,0,True,,sub-12,Obszary aktywowane spojrzeniem
+PauseAndResume,14:41:08.522,14:41:13.340,4817.665299999993,0,True,,sub-12,Obszary aktywowane spojrzeniem
+SetVideo,14:41:16.479,14:41:20.516,4037.136100000003,0,True,,sub-12,Obszary aktywowane spojrzeniem
+FeedForward,14:41:25.807,14:42:01.961,36154.335000000014,10,True,,sub-12,Obszary aktywowane spojrzeniem
+Rewind,14:42:07.27,14:42:21.214,14186.876000000006,0,True,,sub-12,Obszary aktywowane spojrzeniem
+PauseAndResume,14:42:26.205,14:42:30.751,4545.649999999994,0,True,,sub-12,Obszary aktywowane spojrzeniem
+ReduceVolume,14:42:35.766,14:42:46.266,10500.1164,1,True,,sub-12,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,14:42:51.182,14:43:03.530,12347.743499999982,0,True,,sub-12,Obszary aktywowane spojrzeniem
+ReduceVolume,14:43:08.117,14:43:24.306,16188.496999999974,0,True,,sub-12,Obszary aktywowane spojrzeniem
+PauseAndResume,14:43:30.168,14:43:34.611,4442.864600000001,0,True,,sub-12,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,14:43:40.525,14:43:46.46,5521.630499999998,1,True,,sub-12,Obszary aktywowane spojrzeniem
+FeedForward,14:43:49.956,14:44:10.147,20190.46169999998,1,True,,sub-12,Obszary aktywowane spojrzeniem
+Pause,14:44:16.236,14:44:19.954,3717.4590000000026,1,False,,sub-12,Obszary aktywowane spojrzeniem
+FeedForward,14:54:26.970,14:54:45.340,18369.7327,1,True,,sub-12,Przyciski wzrokowe
+Rewind,14:54:49.658,14:54:57.788,8129.602899999997,1,True,,sub-12,Przyciski wzrokowe
+ReduceVolume,14:55:02.648,14:55:20.897,18249.3106,0,False,,sub-12,Przyciski wzrokowe
+PauseAndResume,14:55:27.119,14:55:32.421,5301.977799999993,0,True,,sub-12,Przyciski wzrokowe
+SetVideo,14:55:36.954,14:55:40.299,3344.420300000012,0,True,,sub-12,Przyciski wzrokowe
+PauseAndResume,14:55:44.318,14:55:49.552,5233.529500000004,0,True,,sub-12,Przyciski wzrokowe
+IncreaseVolume,14:55:53.392,14:56:08.642,15250.300699999993,3,True,,sub-12,Przyciski wzrokowe
+SetPanelAndVideo,14:56:13.852,14:56:24.329,10476.8076,3,True,,sub-12,Przyciski wzrokowe
+FeedForward,14:56:30.41,14:56:40.781,10739.922099999996,1,False,,sub-12,Przyciski wzrokowe
+IncreaseVolume,14:56:46.888,14:56:54.31,7143.881500000019,0,False,,sub-12,Przyciski wzrokowe
+PauseAndResume,14:57:01.48,14:57:08.763,7715.3904999999795,0,True,,sub-12,Przyciski wzrokowe
+SetPanelAndVideo,14:57:15.323,14:57:23.498,8175.2135000000135,1,True,,sub-12,Przyciski wzrokowe
+FeedForward,14:57:27.996,14:57:38.857,10860.930999999982,0,True,,sub-12,Przyciski wzrokowe
+Pause,14:57:41.397,14:57:44.40,2642.991700000013,1,False,,sub-12,Przyciski wzrokowe
+FeedForward,12:59:27.990,13:00:06.391,38401.0912,0,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,13:00:10.736,13:00:51.254,40517.8421,0,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,13:00:37.71,13:00:56.684,19612.925700000007,1,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,13:00:56.763,13:01:56.548,59784.60979999999,3,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,13:02:02.6,13:02:14.521,12514.719000000012,2,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,13:02:21.775,13:03:39.45,77270.2058,7,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,13:03:45.634,13:04:01.357,15723.109600000025,0,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,13:04:08.80,13:04:46.554,38474.790099999984,8,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,13:04:50.857,13:04:57.164,6307.007199999993,1,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,13:05:00.853,13:05:15.97,14243.85129999998,1,True,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,13:05:15.75,13:05:19.896,4820.971799999998,1,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,13:05:19.986,13:06:08.538,48552.07539999997,6,False,,sub-09,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,11:58:32.350,11:59:15.233,42883.69340000001,6,True,,sub-09,Obszary aktywowane spojrzeniem
+ReduceVolume,11:59:20.233,11:59:35.753,15519.577300000004,2,True,,sub-09,Obszary aktywowane spojrzeniem
+PauseAndResume,11:59:41.873,11:59:46.266,4392.495000000011,0,True,,sub-09,Obszary aktywowane spojrzeniem
+SetVideo,11:59:53.775,12:00:16.111,22336.8355,2,True,,sub-09,Obszary aktywowane spojrzeniem
+FeedForward,12:00:25.468,12:00:44.453,18985.410600000007,1,True,,sub-09,Obszary aktywowane spojrzeniem
+FeedForward,12:00:48.583,12:00:53.726,5143.095499999996,0,True,,sub-09,Obszary aktywowane spojrzeniem
+PauseAndResume,12:00:58.662,12:01:33.662,34999.41940000001,9,True,,sub-09,Obszary aktywowane spojrzeniem
+ReduceVolume,12:01:42.871,12:01:59.332,16461.046700000006,2,False,,sub-09,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,12:02:07.943,12:02:16.989,9045.819900000002,4,False,,sub-09,Obszary aktywowane spojrzeniem
+ReduceVolume,12:02:21.487,12:02:34.712,13225.061400000004,2,True,,sub-09,Obszary aktywowane spojrzeniem
+FeedForward,12:29:22.827,12:29:27.383,4556.109400000001,0,False,,sub-09,Przyciski wzrokowe
+Rewind,12:29:31.263,12:29:36.643,5379.853900000002,4,True,,sub-09,Przyciski wzrokowe
+IncreaseVolume,12:29:42.736,12:30:07.336,24600.161,7,True,,sub-09,Przyciski wzrokowe
+PauseAndResume,12:30:40.384,12:31:47.264,66880.44709999999,28,True,,sub-09,Przyciski wzrokowe
+SetVideo,12:31:51.294,12:32:01.662,10368.416499999992,0,True,,sub-09,Przyciski wzrokowe
+PauseAndResume,12:32:06.335,12:32:16.216,9880.101900000038,0,True,,sub-09,Przyciski wzrokowe
+IncreaseVolume,12:32:22.195,12:32:44.912,22716.32870000001,4,True,,sub-09,Przyciski wzrokowe
+SetPanelAndVideo,12:32:51.905,12:33:02.90,10185.722299999994,0,False,,sub-09,Przyciski wzrokowe
+FeedForward,12:33:09.741,12:33:16.881,7139.566300000006,0,False,,sub-09,Przyciski wzrokowe
+ReduceVolume,12:33:24.43,12:33:33.184,9140.418599999975,2,True,,sub-09,Przyciski wzrokowe
+PauseAndResume,12:33:37.613,12:33:48.677,11063.74530000001,0,True,,sub-09,Przyciski wzrokowe
+SetPanelAndVideo,12:33:54.473,12:34:11.563,17090.014100000033,3,False,,sub-09,Przyciski wzrokowe
+FeedForward,12:34:16.415,12:34:37.938,21523.195699999982,8,True,,sub-09,Przyciski wzrokowe
+Pause,12:34:44.486,12:34:49.483,4996.932299999986,0,False,,sub-09,Przyciski wzrokowe
+FeedForward,16:05:58.189,16:06:08.547,10358.1204,0,True,,sub-08,Obszary aktywowane spojrzeniem
+Rewind,16:06:12.94,16:06:21.325,9231.249799999998,0,True,,sub-08,Obszary aktywowane spojrzeniem
+ReduceVolume,16:06:25.870,16:06:36.218,10347.5282,0,True,,sub-08,Obszary aktywowane spojrzeniem
+PauseAndResume,16:06:40.302,16:06:44.311,4008.184500000003,0,True,,sub-08,Obszary aktywowane spojrzeniem
+SetVideo,16:06:47.591,16:06:52.847,5256.138699999996,0,True,,sub-08,Obszary aktywowane spojrzeniem
+PauseAndResume,16:06:57.98,16:07:01.145,4047.510899999994,0,True,,sub-08,Obszary aktywowane spojrzeniem
+IncreaseVolume,16:07:04.859,16:07:11.878,7018.874500000004,0,True,,sub-08,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,16:07:16.936,16:07:22.926,5990.046099999991,3,False,,sub-08,Obszary aktywowane spojrzeniem
+FeedForward,16:07:27.466,16:07:36.562,9096.318899999998,0,True,,sub-08,Obszary aktywowane spojrzeniem
+IncreaseVolume,16:07:40.231,16:07:50.118,9886.5803,0,True,,sub-08,Obszary aktywowane spojrzeniem
+PauseAndResume,16:07:52.313,16:07:56.803,4490.14390000001,0,True,,sub-08,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,16:08:02.18,16:08:07.424,5405.511300000013,1,True,,sub-08,Obszary aktywowane spojrzeniem
+FeedForward,16:08:12.888,16:08:30.185,17296.373799999972,0,True,,sub-08,Obszary aktywowane spojrzeniem
+Pause,16:08:32.541,16:08:34.840,2298.5342999999993,1,False,,sub-08,Obszary aktywowane spojrzeniem
+FeedForward,15:14:43.429,15:15:02.800,19370.6248,0,True,,sub-08,Przyciski wzrokowe
+IncreaseVolume,15:15:08.103,15:15:19.553,11449.828700000013,0,True,,sub-08,Przyciski wzrokowe
+PauseAndResume,15:15:25.853,15:15:31.685,5831.1665000000075,0,True,,sub-08,Przyciski wzrokowe
+SetVideo,15:15:35.522,15:15:40.326,4803.612899999994,0,True,,sub-08,Przyciski wzrokowe
+FeedForward,15:15:46.956,15:16:02.365,15409.358299999993,0,False,,sub-08,Przyciski wzrokowe
+Rewind,15:16:07.382,15:16:17.709,10326.739899999986,1,True,,sub-08,Przyciski wzrokowe
+PauseAndResume,15:16:23.410,15:16:33.395,9985.106,0,True,,sub-08,Przyciski wzrokowe
+ReduceVolume,15:16:39.433,15:16:44.754,5320.181399999972,0,False,,sub-08,Przyciski wzrokowe
+SetPanelAndVideo,15:16:52.13,15:17:03.862,11848.212200000007,6,True,,sub-08,Przyciski wzrokowe
+ReduceVolume,15:17:11.122,15:17:15.519,4396.719400000002,0,True,,sub-08,Przyciski wzrokowe
+PauseAndResume,15:17:19.853,15:17:28.404,8551.693599999999,0,True,,sub-08,Przyciski wzrokowe
+SetPanelAndVideo,15:17:33.847,15:17:41.977,8130.184199999989,1,True,,sub-08,Przyciski wzrokowe
+FeedForward,15:17:47.178,15:17:58.580,11402.116500000006,1,True,,sub-08,Przyciski wzrokowe
+Pause,15:18:03.79,15:18:03.606,526.9875000000175,1,False,,sub-08,Przyciski wzrokowe
+FeedForward,11:18:33.19,11:19:23.631,50612.1632,3,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,11:19:23.710,11:20:06.141,42430.0784,1,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,11:20:13.312,11:22:17.567,124254.7907,1,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,11:22:23.804,11:22:27.924,4119.68829999998,0,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,11:22:33.943,11:23:00.903,26960.2506,24,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,11:23:06.987,11:23:12.569,5581.480700000015,1,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,11:23:21.184,11:24:11.880,50696.717400000016,0,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,11:24:16.115,11:24:18.977,2862.95769999997,0,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,11:24:27.672,11:26:00.609,92937.3151,1,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,11:26:00.609,11:26:59.438,58829.21509999997,1,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,11:27:02.561,11:27:06.971,4410.0293999999985,0,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,11:27:14.143,11:27:23.302,9158.745200000003,7,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,11:27:31.465,11:27:45.557,14092.113799999934,1,True,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+Pause,11:27:49.72,11:27:49.744,671.8438000000315,1,False,,sub-07,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,10:50:10.652,10:50:22.902,12249.0596,0,True,,sub-07,Obszary aktywowane spojrzeniem
+IncreaseVolume,10:50:25.895,10:50:47.907,22012.0143,6,True,,sub-07,Obszary aktywowane spojrzeniem
+PauseAndResume,10:50:48.988,10:51:00.722,11734.7062,1,True,,sub-07,Obszary aktywowane spojrzeniem
+SetVideo,10:51:05.933,10:51:10.176,4243.029999999999,0,False,,sub-07,Obszary aktywowane spojrzeniem
+FeedForward,10:51:15.110,10:51:36.496,21386.644700000004,7,True,,sub-07,Obszary aktywowane spojrzeniem
+FeedForward,10:51:41.38,10:51:53.335,12296.4847,4,True,,sub-07,Obszary aktywowane spojrzeniem
+PauseAndResume,10:51:53.468,10:52:02.837,9369.00480000001,1,False,,sub-07,Obszary aktywowane spojrzeniem
+IncreaseVolume,10:52:07.596,10:52:27.608,20011.959299999988,3,True,,sub-07,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,10:52:34.267,10:52:48.174,13907.317299999995,0,False,,sub-07,Obszary aktywowane spojrzeniem
+ReduceVolume,10:53:01.157,10:53:42.289,41132.45810000002,11,True,,sub-07,Obszary aktywowane spojrzeniem
+PauseAndResume,10:53:42.289,10:53:54.527,12238.250499999995,0,True,,sub-07,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,10:54:01.221,10:54:14.232,13011.266600000004,4,False,,sub-07,Obszary aktywowane spojrzeniem
+FeedForward,10:54:18.477,10:54:28.31,9554.467499999972,4,True,,sub-07,Obszary aktywowane spojrzeniem
+Pause,10:54:30.901,10:54:32.502,1601.8796999999906,1,False,,sub-07,Obszary aktywowane spojrzeniem
+FeedForward,10:23:00.633,10:23:38.252,37619.1693,4,True,,sub-07,Przyciski wzrokowe
+IncreaseVolume,10:23:45.792,10:23:51.28,5235.585999999996,5,False,,sub-07,Przyciski wzrokowe
+PauseAndResume,10:23:56.178,10:24:01.820,5641.855899999995,0,True,,sub-07,Przyciski wzrokowe
+SetVideo,10:24:04.261,10:24:09.958,5697.713699999993,4,True,,sub-07,Przyciski wzrokowe
+FeedForward,10:24:17.863,10:24:26.351,8487.647299999997,2,False,,sub-07,Przyciski wzrokowe
+PauseAndResume,10:24:42.860,10:24:54.390,11529.753999999999,12,False,,sub-07,Przyciski wzrokowe
+IncreaseVolume,10:25:02.60,10:25:11.914,9853.57920000001,3,True,,sub-07,Przyciski wzrokowe
+SetPanelAndVideo,10:25:13.284,10:25:17.183,3899.275300000008,1,False,,sub-07,Przyciski wzrokowe
+FeedForward,10:25:23.790,10:25:31.430,7639.952000000019,0,True,,sub-07,Przyciski wzrokowe
+Rewind,10:25:37.32,10:25:43.272,6239.949900000007,6,False,,sub-07,Przyciski wzrokowe
+ReduceVolume,10:25:47.629,10:25:55.857,8228.415299999993,2,False,,sub-07,Przyciski wzrokowe
+PauseAndResume,10:26:03.485,10:26:11.306,7820.749899999995,4,False,,sub-07,Przyciski wzrokowe
+SetPanelAndVideo,10:26:15.965,10:26:22.517,6551.6263000000035,9,False,,sub-07,Przyciski wzrokowe
+Pause,10:26:26.352,10:26:29.252,2899.3467999999993,1,False,,sub-07,Przyciski wzrokowe
+FeedForward,15:46:30.672,15:47:01.310,30637.900000000016,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,15:47:07.486,15:47:28.904,21418.494900000005,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,15:47:33.704,15:47:44.740,11035.24470000001,2,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,15:47:49.985,15:47:53.972,3987.103399999993,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,15:47:59.221,15:49:02.657,63436.053,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,15:49:08.37,15:49:11.598,3560.3227999999945,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,15:49:15.607,15:49:31.519,15911.784199999995,1,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,15:49:36.665,15:49:42.356,5691.039300000004,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,15:49:49.287,15:50:09.817,20530.0318,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,15:50:13.444,15:50:55.3,41559.668599999975,3,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,15:51:00.402,15:51:28.472,28070.18359999999,3,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,15:51:31.848,15:51:37.782,5934.291000000026,0,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,15:51:41.912,15:51:50.715,8802.372900000017,1,True,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+Pause,15:51:53.223,15:51:56.35,2811.6421000000555,1,False,,sub-06,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,16:17:28.678,16:17:47.817,19139.7156,0,True,,sub-06,Obszary aktywowane spojrzeniem
+IncreaseVolume,16:17:51.976,16:18:02.199,10222.580999999998,0,True,,sub-06,Obszary aktywowane spojrzeniem
+PauseAndResume,16:18:04.795,16:18:11.126,6331.081400000003,0,True,,sub-06,Obszary aktywowane spojrzeniem
+SetVideo,16:18:14.468,16:18:18.451,3982.991999999999,0,True,,sub-06,Obszary aktywowane spojrzeniem
+FeedForward,16:18:21.983,16:18:53.338,31355.144199999995,7,True,,sub-06,Obszary aktywowane spojrzeniem
+PauseAndResume,16:18:57.728,16:19:02.355,4627.306700000001,0,True,,sub-06,Obszary aktywowane spojrzeniem
+ReduceVolume,16:19:06.405,16:19:18.177,11772.170599999998,0,True,,sub-06,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,16:19:22.914,16:19:30.332,7418.359499999991,0,True,,sub-06,Obszary aktywowane spojrzeniem
+FeedForward,16:19:35.608,16:19:49.265,13656.952600000019,1,True,,sub-06,Obszary aktywowane spojrzeniem
+Rewind,16:19:52.247,16:21:15.923,83675.5478,7,True,,sub-06,Obszary aktywowane spojrzeniem
+ReduceVolume,16:21:25.228,16:21:45.226,19998.046999999962,2,True,,sub-06,Obszary aktywowane spojrzeniem
+PauseAndResume,16:21:52.756,16:22:01.47,8291.574799999944,0,True,,sub-06,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,16:22:07.265,16:22:11.734,4469.174999999987,1,True,,sub-06,Obszary aktywowane spojrzeniem
+Pause,16:22:14.383,16:22:18.678,4294.321399999957,1,False,,sub-06,Obszary aktywowane spojrzeniem
+FeedForward,16:42:26.200,16:42:53.730,27530.2206,1,True,,sub-06,Przyciski wzrokowe
+ReduceVolume,16:42:58.98,16:43:09.507,11408.227199999996,2,True,,sub-06,Przyciski wzrokowe
+PauseAndResume,16:43:16.38,16:43:24.869,8831.335500000001,0,True,,sub-06,Przyciski wzrokowe
+SetVideo,16:43:30.821,16:43:38.382,7561.088600000003,0,True,,sub-06,Przyciski wzrokowe
+FeedForward,16:43:41.926,16:43:48.469,6543.229800000001,1,True,,sub-06,Przyciski wzrokowe
+Rewind,16:43:53.259,16:44:03.830,10570.562999999996,1,True,,sub-06,Przyciski wzrokowe
+PauseAndResume,16:44:06.721,16:44:14.954,8232.976599999995,0,True,,sub-06,Przyciski wzrokowe
+IncreaseVolume,16:44:19.161,16:44:25.693,6531.3979999999865,0,False,,sub-06,Przyciski wzrokowe
+SetPanelAndVideo,16:44:30.754,16:44:40.406,9651.940700000006,3,True,,sub-06,Przyciski wzrokowe
+IncreaseVolume,16:44:46.993,16:44:58.954,11960.671800000013,1,True,,sub-06,Przyciski wzrokowe
+PauseAndResume,16:45:02.813,16:45:09.32,6219.894499999995,0,True,,sub-06,Przyciski wzrokowe
+SetPanelAndVideo,16:45:14.18,16:45:18.519,4500.717699999979,1,True,,sub-06,Przyciski wzrokowe
+FeedForward,16:45:23.32,16:45:43.148,20116.141000000003,0,True,,sub-06,Przyciski wzrokowe
+Pause,16:45:46.37,16:45:49.725,3688.574599999993,1,False,,sub-06,Przyciski wzrokowe
+PauseAndResume,17:30:25.377,17:30:33.374,7996.509200000004,3,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,17:30:33.374,17:30:47.71,13697.072899999992,3,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,17:30:51.715,17:31:05.627,13911.810600000004,6,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,17:31:12.531,17:31:23.545,11014.551699999995,3,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,17:31:27.107,17:31:31.24,3917.3545000000013,0,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,17:31:35.425,17:31:41.56,5631.064700000003,2,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,17:31:41.56,17:31:47.334,6278.371299999999,0,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,17:25:48.795,17:27:17.388,88592.7864,0,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,17:27:23.413,17:28:43.397,79984.5308,4,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,17:28:47.997,17:28:51.848,3850.904600000009,0,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,17:28:55.254,17:28:58.987,3733.330000000016,0,True,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,17:29:04.7,17:29:12.194,8187.363799999992,0,False,,sub-05,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,18:20:17.270,18:20:29.277,12006.228600000002,0,True,,sub-05,Obszary aktywowane spojrzeniem
+PauseAndResume,18:20:33.358,18:20:37.902,4544.653200000002,0,True,,sub-05,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,18:20:42.662,18:20:49.195,6533.223100000003,1,True,,sub-05,Obszary aktywowane spojrzeniem
+FeedForward,18:20:58.893,18:21:11.661,12768.389199999998,0,True,,sub-05,Obszary aktywowane spojrzeniem
+Pause,18:21:13.830,18:21:16.322,2491.7627000000066,1,False,,sub-05,Obszary aktywowane spojrzeniem
+FeedForward,18:17:55.423,18:18:04.246,8823.374499999998,0,True,,sub-05,Obszary aktywowane spojrzeniem
+Rewind,18:18:07.585,18:18:16.281,8695.8229,0,True,,sub-05,Obszary aktywowane spojrzeniem
+ReduceVolume,18:18:20.350,18:18:35.990,15640.1385,0,True,,sub-05,Obszary aktywowane spojrzeniem
+PauseAndResume,18:18:40.159,18:18:44.439,4280.237799999988,0,True,,sub-05,Obszary aktywowane spojrzeniem
+SetVideo,18:18:48.168,18:18:51.530,3361.930999999997,0,False,,sub-05,Obszary aktywowane spojrzeniem
+PauseAndResume,18:18:55.89,18:18:59.525,4435.768499999991,0,True,,sub-05,Obszary aktywowane spojrzeniem
+ReduceVolume,18:19:03.144,18:19:10.519,7375.578099999999,0,True,,sub-05,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,18:19:14.680,18:19:24.916,10235.7834,5,True,,sub-05,Obszary aktywowane spojrzeniem
+FeedForward,18:19:29.752,18:19:40.939,11187.079400000002,0,True,,sub-05,Obszary aktywowane spojrzeniem
+FeedForward,17:50:43.954,17:50:57.364,13410.0533,1,True,,sub-05,Przyciski wzrokowe
+Rewind,17:51:03.20,17:51:11.839,8819.1129,1,True,,sub-05,Przyciski wzrokowe
+ReduceVolume,17:51:16.495,17:51:28.159,11664.0884,1,True,,sub-05,Przyciski wzrokowe
+PauseAndResume,17:51:33.819,17:51:40.509,6689.351699999991,0,True,,sub-05,Przyciski wzrokowe
+SetVideo,17:51:46.82,17:51:49.587,3505.3074000000047,0,True,,sub-05,Przyciski wzrokowe
+PauseAndResume,17:51:54.889,17:52:01.212,6323.6495,0,True,,sub-05,Przyciski wzrokowe
+IncreaseVolume,17:52:05.111,17:52:09.837,4725.639599999995,0,False,,sub-05,Przyciski wzrokowe
+SetPanelAndVideo,17:52:15.342,17:52:27.589,12247.740900000004,3,False,,sub-05,Przyciski wzrokowe
+FeedForward,17:52:34.176,17:52:42.557,8380.370400000013,1,True,,sub-05,Przyciski wzrokowe
+IncreaseVolume,17:52:47.687,17:52:52.222,4535.454700000002,0,True,,sub-05,Przyciski wzrokowe
+PauseAndResume,17:52:57.597,17:53:03.277,5679.11069999999,0,True,,sub-05,Przyciski wzrokowe
+SetPanelAndVideo,17:53:07.978,17:53:12.975,4996.952099999995,1,True,,sub-05,Przyciski wzrokowe
+FeedForward,17:53:17.522,17:53:27.637,10115.486000000004,0,True,,sub-05,Przyciski wzrokowe
+Pause,17:53:30.588,17:53:33.615,3027.1643000000045,1,False,,sub-05,Przyciski wzrokowe
+FeedForward,18:33:20.139,18:33:36.822,16682.712900000002,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,18:33:42.288,18:33:54.195,11907.255300000004,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,18:33:56.32,18:34:14.18,17986.43329999999,1,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,18:34:17.188,18:34:22.65,4877.7837,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,18:34:25.684,18:34:33.888,8204.04849999999,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,18:34:38.343,18:34:42.144,3801.5201999999986,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,18:34:45.866,18:34:57.771,11905.174499999996,2,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,18:35:03.134,18:35:17.738,14604.005300000019,0,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,18:35:20.945,18:35:39.561,18616.2297,10,True,,sub-04,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,18:05:40.963,18:05:57.32,16068.099300000002,1,True,,sub-04,Obszary aktywowane spojrzeniem
+ReduceVolume,18:05:57.262,18:06:06.875,9613.194200000004,5,False,,sub-04,Obszary aktywowane spojrzeniem
+PauseAndResume,18:06:11.578,18:06:20.968,9390.4747,0,True,,sub-04,Obszary aktywowane spojrzeniem
+SetVideo,18:06:26.739,18:06:30.749,4010.018800000005,0,True,,sub-04,Obszary aktywowane spojrzeniem
+FeedForward,18:06:36.658,18:06:47.264,10606.149700000009,0,True,,sub-04,Obszary aktywowane spojrzeniem
+Rewind,18:06:51.906,18:07:07.516,15610.611800000011,2,True,,sub-04,Obszary aktywowane spojrzeniem
+PauseAndResume,18:07:11.240,18:07:14.801,3560.5470999999957,0,True,,sub-04,Obszary aktywowane spojrzeniem
+IncreaseVolume,18:07:19.970,18:07:28.249,8278.842400000009,0,True,,sub-04,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,18:07:34.9,18:07:41.669,7659.50529999999,0,True,,sub-04,Obszary aktywowane spojrzeniem
+IncreaseVolume,18:07:50.700,18:08:03.356,12655.454100000004,0,True,,sub-04,Obszary aktywowane spojrzeniem
+PauseAndResume,18:08:07.453,18:08:11.738,4285.587799999979,0,True,,sub-04,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,18:08:17.322,18:08:22.796,5474.385999999999,1,True,,sub-04,Obszary aktywowane spojrzeniem
+FeedForward,18:08:28.19,18:08:42.906,14887.15399999998,1,True,,sub-04,Obszary aktywowane spojrzeniem
+Pause,18:08:45.592,18:08:47.792,2199.3810999999987,1,False,,sub-04,Obszary aktywowane spojrzeniem
+FeedForward,19:00:45.818,19:01:27.362,41544.1183,5,True,,sub-04,Przyciski wzrokowe
+IncreaseVolume,19:01:31.789,19:01:42.71,10282.436100000006,1,True,,sub-04,Przyciski wzrokowe
+PauseAndResume,19:01:44.612,19:01:56.75,11463.651200000008,0,True,,sub-04,Przyciski wzrokowe
+SetVideo,19:02:01.909,19:02:05.837,3927.6203000000096,0,True,,sub-04,Przyciski wzrokowe
+FeedForward,19:02:09.647,19:02:26.316,16669.3643,3,True,,sub-04,Przyciski wzrokowe
+PauseAndResume,19:02:31.182,19:02:36.277,5095.174499999994,0,True,,sub-04,Przyciski wzrokowe
+ReduceVolume,19:02:39.365,19:02:51.890,12524.722500000005,1,True,,sub-04,Przyciski wzrokowe
+SetPanelAndVideo,19:02:58.358,19:03:04.11,5652.715100000001,0,False,,sub-04,Przyciski wzrokowe
+FeedForward,19:03:10.285,19:03:22.687,12401.836499999976,0,True,,sub-04,Przyciski wzrokowe
+Rewind,19:03:27.661,19:03:33.893,6232.417199999996,1,True,,sub-04,Przyciski wzrokowe
+ReduceVolume,19:03:37.411,19:03:41.814,4403.363899999997,0,True,,sub-04,Przyciski wzrokowe
+PauseAndResume,19:03:45.51,19:03:57.749,12698.771500000004,0,True,,sub-04,Przyciski wzrokowe
+SetPanelAndVideo,19:04:03.3,19:04:07.95,4092.2592,1,True,,sub-04,Przyciski wzrokowe
+Pause,19:04:11.386,19:04:12.251,865.3902999999991,1,False,,sub-04,Przyciski wzrokowe
+FeedForward,13:16:43.108,13:17:03.42,19934.0054,1,True,,sub-03,Obszary aktywowane spojrzeniem
+Rewind,13:17:08.340,13:17:27.997,19657.318799999994,2,True,,sub-03,Obszary aktywowane spojrzeniem
+IncreaseVolume,13:17:34.387,13:18:04.757,30370.5738,4,True,,sub-03,Obszary aktywowane spojrzeniem
+PauseAndResume,13:18:08.793,13:18:17.962,9168.804600000003,0,True,,sub-03,Obszary aktywowane spojrzeniem
+SetVideo,13:18:23.33,13:18:26.547,3513.9853000000007,0,True,,sub-03,Obszary aktywowane spojrzeniem
+PauseAndResume,13:18:34.172,13:18:39.58,4886.018800000005,0,True,,sub-03,Obszary aktywowane spojrzeniem
+ReduceVolume,13:18:44.108,13:18:52.63,7954.962700000018,0,True,,sub-03,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,13:18:57.197,13:19:04.479,7282.512000000017,0,True,,sub-03,Obszary aktywowane spojrzeniem
+FeedForward,13:19:10.296,13:19:17.519,7222.665299999992,1,True,,sub-03,Obszary aktywowane spojrzeniem
+IncreaseVolume,13:19:18.668,13:19:30.127,11458.727199999996,2,True,,sub-03,Obszary aktywowane spojrzeniem
+PauseAndResume,13:19:37.796,13:19:50.311,12515.6587,5,True,,sub-03,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,13:19:55.798,13:20:04.684,8885.376199999999,4,True,,sub-03,Obszary aktywowane spojrzeniem
+FeedForward,13:20:13.430,13:20:34.907,21476.76819999999,0,True,,sub-03,Obszary aktywowane spojrzeniem
+Pause,13:20:36.798,13:20:39.74,2275.975399999996,1,False,,sub-03,Obszary aktywowane spojrzeniem
+FeedForward,13:51:42.803,13:52:01.235,18432.0601,1,True,,sub-03,Przyciski wzrokowe
+ReduceVolume,13:52:06.841,13:52:18.343,11501.6158,0,True,,sub-03,Przyciski wzrokowe
+PauseAndResume,13:52:29.703,13:52:45.39,15336.840799999998,1,True,,sub-03,Przyciski wzrokowe
+SetVideo,13:52:51.331,13:52:55.775,4444.294699999999,0,True,,sub-03,Przyciski wzrokowe
+FeedForward,13:53:00.27,13:53:13.907,13880.208499999993,4,True,,sub-03,Przyciski wzrokowe
+Rewind,13:53:18.763,13:53:46.962,28199.25210000001,3,True,,sub-03,Przyciski wzrokowe
+PauseAndResume,13:53:52.176,13:54:02.234,10058.350000000006,2,True,,sub-03,Przyciski wzrokowe
+IncreaseVolume,13:54:05.954,13:54:12.907,6953.622499999998,1,True,,sub-03,Przyciski wzrokowe
+SetPanelAndVideo,13:54:16.514,13:54:22.345,5831.140400000004,0,True,,sub-03,Przyciski wzrokowe
+IncreaseVolume,13:54:27.395,13:54:35.769,8373.659500000009,0,False,,sub-03,Przyciski wzrokowe
+PauseAndResume,13:54:38.768,13:54:51.151,12382.602799999993,0,True,,sub-03,Przyciski wzrokowe
+SetPanelAndVideo,13:54:55.780,13:55:01.719,5939.414299999976,1,True,,sub-03,Przyciski wzrokowe
+FeedForward,13:55:05.696,13:55:27.187,21490.696,1,True,,sub-03,Przyciski wzrokowe
+Pause,13:55:29.427,13:55:33.20,3593.612300000008,1,False,,sub-03,Przyciski wzrokowe
+FeedForward,18:53:55.15,18:54:04.862,9846.0353,0,True,,sub-02,Obszary aktywowane spojrzeniem
+Rewind,18:54:08.25,18:54:19.64,11039.7094,0,True,,sub-02,Obszary aktywowane spojrzeniem
+IncreaseVolume,18:54:23.410,18:54:30.981,7570.575799999999,0,True,,sub-02,Obszary aktywowane spojrzeniem
+PauseAndResume,18:54:36.265,18:54:41.495,5230.033199999998,0,True,,sub-02,Obszary aktywowane spojrzeniem
+SetVideo,18:54:44.794,18:54:48.918,4124.267500000002,0,True,,sub-02,Obszary aktywowane spojrzeniem
+PauseAndResume,18:54:52.438,18:54:57.672,5233.407800000015,0,True,,sub-02,Obszary aktywowane spojrzeniem
+ReduceVolume,18:55:00.687,18:55:09.973,9285.874500000004,0,True,,sub-02,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,18:55:20.895,18:55:31.365,10469.966799999997,0,True,,sub-02,Obszary aktywowane spojrzeniem
+FeedForward,18:55:39.954,18:55:59.566,19611.5631,0,True,,sub-02,Obszary aktywowane spojrzeniem
+ReduceVolume,18:56:03.413,18:56:13.546,10133.408000000025,0,True,,sub-02,Obszary aktywowane spojrzeniem
+PauseAndResume,18:56:15.968,18:56:20.419,4450.766800000012,0,True,,sub-02,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,18:56:24.906,18:56:29.799,4892.74709999998,1,True,,sub-02,Obszary aktywowane spojrzeniem
+FeedForward,18:56:35.379,18:57:14.427,39047.9527,12,True,,sub-02,Obszary aktywowane spojrzeniem
+Pause,18:57:15.753,18:57:18.327,2573.5329000000197,1,False,,sub-02,Obszary aktywowane spojrzeniem
+FeedForward,13:20:51.107,13:21:42.150,51042.5678,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+Rewind,13:21:45.463,13:22:59.80,73616.74740000001,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,13:23:04.690,13:23:56.423,51733.82309999998,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,13:23:56.423,13:24:04.511,8087.327900000004,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,13:24:22.163,13:24:28.742,6579.881100000028,2,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,13:24:35.445,13:24:40.619,5174.094000000012,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+IncreaseVolume,13:24:44.419,13:26:28.319,103900.3421,2,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+SetVideo,13:26:31.522,13:26:35.380,3857.8048000000417,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,13:26:40.171,13:27:13.530,33359.82760000002,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+ReduceVolume,13:27:19.814,13:28:14.313,54499.6593,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+PauseAndResume,13:28:17.646,13:28:27.481,9834.30680000002,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+SetPanelAndVideo,13:28:34.98,13:28:39.273,5174.7789999999795,1,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,13:28:44.396,13:30:27.259,102862.47809999996,0,True,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+Pause,13:30:28.897,13:30:31.64,2167.517899999977,1,False,,sub-01,Obszary aktywowane przemieszczeniem spojrzenia
+FeedForward,12:52:30.911,12:52:52.256,21344.5839,0,True,,sub-01,Obszary aktywowane spojrzeniem
+ReduceVolume,12:53:00.146,12:53:24.246,24099.9262,0,True,,sub-01,Obszary aktywowane spojrzeniem
+PauseAndResume,12:53:30.584,12:53:36.569,5984.584299999988,0,True,,sub-01,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,12:53:46.567,12:53:56.988,10420.821599999996,2,True,,sub-01,Obszary aktywowane spojrzeniem
+Rewind,12:54:02.896,12:54:12.620,9723.516199999998,0,True,,sub-01,Obszary aktywowane spojrzeniem
+PauseAndResume,12:54:19.80,12:54:29.181,10100.262300000002,0,True,,sub-01,Obszary aktywowane spojrzeniem
+IncreaseVolume,12:54:37.160,12:55:04.931,27770.99179999999,5,True,,sub-01,Obszary aktywowane spojrzeniem
+SetPanelAndVideo,12:55:05.447,12:55:24.186,18738.5815,4,True,,sub-01,Obszary aktywowane spojrzeniem
+FeedForward,12:55:32.538,12:55:44.436,11897.506800000005,0,True,,sub-01,Obszary aktywowane spojrzeniem
+Rewind,12:55:48.186,12:55:55.242,7056.494800000015,0,True,,sub-01,Obszary aktywowane spojrzeniem
+ReduceVolume,12:56:00.528,12:56:10.327,9799.045000000013,0,True,,sub-01,Obszary aktywowane spojrzeniem
+PauseAndResume,12:56:14.572,12:56:27.535,12962.824299999978,0,True,,sub-01,Obszary aktywowane spojrzeniem
+SetVideo,12:56:32.291,12:56:37.975,5684.413900000042,0,True,,sub-01,Obszary aktywowane spojrzeniem
+Pause,12:56:39.655,12:56:41.798,2142.746600000013,1,False,,sub-01,Obszary aktywowane spojrzeniem
+FeedForward,12:22:30.661,12:22:41.43,10381.678600000003,0,True,,sub-01,Przyciski wzrokowe
+Rewind,12:22:48.552,12:23:01.244,12691.997600000002,1,True,,sub-01,Przyciski wzrokowe
+IncreaseVolume,12:23:08.844,12:23:38.504,29659.2683,3,True,,sub-01,Przyciski wzrokowe
+PauseAndResume,12:23:45.711,12:23:51.756,6044.7209,0,True,,sub-01,Przyciski wzrokowe
+SetVideo,12:23:55.79,12:23:58.815,3736.6866999999907,0,True,,sub-01,Przyciski wzrokowe
+PauseAndResume,12:24:01.864,12:24:31.388,29523.934300000008,0,True,,sub-01,Przyciski wzrokowe
+ReduceVolume,12:24:41.4,12:24:50.337,10769.597100000014,0,True,,sub-01,Przyciski wzrokowe
+SetPanelAndVideo,12:24:57.637,12:25:20.757,23119.96710000001,1,True,,sub-01,Przyciski wzrokowe
+FeedForward,12:25:27.181,12:25:36.786,9604.815499999997,0,True,,sub-01,Przyciski wzrokowe
+IncreaseVolume,12:25:42.839,12:25:52.876,10036.521399999998,1,True,,sub-01,Przyciski wzrokowe
+PauseAndResume,12:25:57.179,12:26:19.372,22192.953799999992,4,True,,sub-01,Przyciski wzrokowe
+SetPanelAndVideo,12:26:26.113,12:27:05.18,38904.7738,5,True,,sub-01,Przyciski wzrokowe
+Rewind,12:27:11.11,12:27:19.284,8273.506200000002,3,True,,sub-01,Przyciski wzrokowe
+Pause,12:27:19.304,12:27:23.519,4214.665799999959,3,False,,sub-01,Przyciski wzrokowe
